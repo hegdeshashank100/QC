@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Register</title>
+
+   <!-- Font Awesome CDN Link -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+
+   <!-- Custom CSS File Link -->
+   <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="header">
+   <section class="flex">
+      <a href="home.html" class="logo">QC</a>
+      <form action="search.html" method="post" class="search-form">
+         <input type="text" name="search_box" required placeholder="Search courses..." maxlength="100">
+         <button type="submit" class="fas fa-search"></button>
+      </form>
+      <div class="icons">
+         <div id="menu-btn" class="fas fa-bars"></div>
+         <div id="user-btn" class="fas fa-user"></div> <!-- Profile icon -->
+         <div id="toggle-btn" class="fas fa-sun"></div> <!-- Dark/Light mode toggle -->
+      </div>
+      
+      <!-- Profile Dropdown -->
+      <div class="profile-dropdown">
+         <a href="login.html" class="btn">Login</a>
+      </div>
+   </section>
+</header>
+
+<div class="side-bar">
+   <div id="close-btn">
+      <i class="fas fa-times"></i>
+   </div>
+   <nav class="navbar">
+      <a href="home.html"><i class="fas fa-home"></i><span>Home</span></a>
+      <a href="about.html"><i class="fas fa-question"></i><span>About</span></a>
+      <a href="courses.html"><i class="fas fa-graduation-cap"></i><span>Courses</span></a>
+      <a href="teachers.html"><i class="fas fa-chalkboard-user"></i><span>Teachers</span></a>
+      <a href="contact.html"><i class="fas fa-headset"></i><span>Contact Us</span></a>
+   </nav>
+</div>
+
+<section class="form-container">
+   <div class="form-box">
+      <form action="register.php" method="post" enctype="multipart/form-data">
+         <h3>Register Now</h3>
+         <p>Your Name <span>*</span></p>
+         <input type="text" name="name" placeholder="Enter your name" required maxlength="50" class="box">
+         <p>Your Email <span>*</span></p>
+         <input type="email" name="email" placeholder="Enter your email" required maxlength="50" class="box">
+         <p>Your Password <span>*</span></p>
+         <input type="password" name="pass" placeholder="Enter your password" required maxlength="20" class="box">
+         <p>Confirm Password <span>*</span></p>
+         <input type="password" name="c_pass" placeholder="Confirm your password" required maxlength="20" class="box">
+         <p>Select Profile Picture <span>*</span></p>
+         <input type="file" name="profile_picture" accept="image/*" required class="box">
+         <input type="submit" value="Register" name="submit" class="btn">
+      </form>
+   </div>
+</section>
+
+<footer class="footer">
+   &copy; Copyright @ 2024 by <span>Quantum Coders</span> | All Rights Reserved!
+</footer>
+
+<!-- Custom JS File Link -->
+<script src="js/script.js"></script>
+
+</body>
+</html>

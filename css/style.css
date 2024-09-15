@@ -1,0 +1,2021 @@
+/* General Styles */
+body {
+   font-family: 'Roboto', sans-serif;
+   background-color: #f4f6f8;
+   margin: 0;
+   padding: 0;
+}
+
+h1, h2 {
+   color: #2c3e50;
+   text-align: center;
+}
+
+h1 {
+   margin-top: 20px;
+}
+
+a {
+   text-decoration: none;
+   color: #3498db;
+   transition: color 0.3s;
+}
+
+a:hover {
+   color: #2980b9;
+}
+
+/* Header */
+/* Header Styling */
+.header {
+   background-color: #3498db;
+   color: white;
+   padding: 15px 0;
+}
+
+.header .flex {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 0 20px;
+   flex-wrap: wrap; /* To ensure proper wrapping on smaller screens */
+}
+
+.header a.logo {
+   font-size: 24px;
+   font-weight: bold;
+   color: white;
+   letter-spacing: 1px;
+   white-space: nowrap; /* Prevents the company name from breaking onto the next line */
+   max-width: 150px; /* Adjust based on your logo's size */
+   overflow: hidden;
+   text-overflow: ellipsis;
+}
+
+.header .search-form {
+   position: relative;
+   flex-grow: 2; /* Allows the search form to take more space */
+   display: flex;
+   justify-content: center;
+}
+
+.header .search-form input {
+   padding: 8px 12px;
+   border: none;
+   border-radius: 25px;
+   outline: none;
+   width: 100%;
+   max-width: 400px; /* Limit max width to prevent over-expansion */
+}
+
+.header .search-form button {
+   background: none;
+   border: none;
+   color: white;
+   position: absolute;
+   right: 10px;
+   top: 50%;
+   transform: translateY(-50%);
+   cursor: pointer;
+}
+
+.header .icons {
+   display: flex;
+   gap: 15px;
+}
+
+.header .profile {
+   display: flex;
+   align-items: center;
+}
+
+
+/* Sidebar */
+/* Sidebar */
+.side-bar {
+   position: fixed;
+   top: 0;
+   left: -300px; /* Move sidebar off-screen */
+   width: 200px;
+   height: 100%;
+   background-color: #3498db;
+   padding: 20px;
+   z-index: 9999;
+   transition: left 0.3s ease; /* Smooth transition */
+}
+
+.side-bar.open {
+   left: 0; /* Slide sidebar into view */
+}
+
+.side-bar .profile {
+   text-align: center;
+   margin-bottom: 40px;
+}
+
+.side-bar nav a {
+   display: flex;
+   align-items: center;
+   padding: 10px 0;
+   color: white;
+   font-size: 18px;
+   font-weight: bold;
+}
+
+.side-bar nav a i {
+   margin-right: 10px;
+}
+
+.side-bar #close-btn {
+   position: absolute;
+   top: 20px;
+   right: 20px;
+   font-size: 24px;
+   cursor: pointer;
+}
+.side-bar .profile {
+   padding: 3rem 2rem;
+   text-align: center;
+   background-color: #444; /* Darker background for profile */
+   border-bottom: 1px solid #555; /* Slightly lighter border */
+}
+
+.side-bar .profile .image {
+   height: 4rem;          /* Adjust based on design */
+   width: 6rem;           /* Adjust based on design */
+   border-radius: 50%;
+   object-fit: cover;
+   margin-bottom: 1rem;
+   border: 2px solid #fff; /* Optional: Add a border for better visibility */
+   padding: 0.5rem;       /* Optional: Add padding to ensure border visibility */
+}
+
+.side-bar .profile .name {
+   font-size: 2rem;
+   color: #fff; /* White text color */
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+}
+
+.side-bar .profile .role {
+   font-size: 1.8rem;
+   color: #bbb; /* Light gray color */
+}
+
+
+/* Body content adjustment */
+body.sidebar-open {
+   overflow: hidden; /* Prevent scrolling when the sidebar is open */
+}
+
+/* Home Grid */
+.home-grid {
+   max-width: 1200px;
+   margin: 20px auto;
+   padding: 20px;
+   text-align: center;
+}
+
+.home-grid .box-container {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+   gap: 20px;
+}
+
+.home-grid .box {
+   background-color: white;
+   padding: 20px;
+   border-radius: 8px;
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.home-grid .box h3.title {
+   font-size: 20px;
+   margin-bottom: 10px;
+}
+
+.home-grid .inline-btn {
+   background-color: #3498db;
+   color: white;
+   padding: 8px 12px;
+   border-radius: 25px;
+   font-size: 14px;
+   transition: background-color 0.3s;
+}
+
+.home-grid .inline-btn:hover {
+   background-color: #2980b9;
+}
+
+/* Courses Section */
+.courses {
+   max-width: 1200px;
+   margin: 20px auto;
+   padding: 20px;
+}
+
+.courses .box-container {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+   gap: 20px;
+}
+
+.courses .box {
+   background-color: white;
+   padding: 20px;
+   border-radius: 8px;
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.courses .more-btn {
+   text-align: center;
+   margin-top: 20px;
+}
+
+.courses .more-btn .inline-option-btn {
+   background-color: #3498db;
+   color: white;
+   padding: 8px 15px;
+   border-radius: 25px;
+   transition: background-color 0.3s;
+}
+
+.courses .more-btn .inline-option-btn:hover {
+   background-color: #2980b9;
+}
+.courses .box-container .box {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding: 20px;
+   background-color: white;
+   border-radius: 8px;
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.courses .box-container .box img {
+   width: 100%;
+   height: auto;
+   max-height: 200px;
+   object-fit: cover;
+   border-radius: 8px;
+   margin-bottom: 15px;
+}
+
+
+/* Footer */
+footer {
+   background-color: #3498db;
+   color: white;
+   padding: 20px;
+   text-align: center;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+   .header .flex {
+       flex-direction: column;
+   }
+
+   .header .search-form input {
+       width: 100%;
+   }
+
+   .side-bar {
+       width: 250px;
+   }
+
+   .home-grid, .courses {
+       padding: 10px;
+   }
+}
+/* Default (Light Mode) */
+body {
+   background-color: #ffffff;
+   color: #333;
+   transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Dark Mode */
+body.dark-mode {
+   background-color: #2c3e50;
+   color: #ecf0f1;
+}
+
+/* Header and Elements in Light and Dark Mode */
+.header, .side-bar {
+   background-color: #3498db;
+   transition: background-color 0.3s ease;
+}
+
+body.dark-mode .header, body.dark-mode .side-bar {
+   background-color: #34495e;
+}
+
+.search-form input {
+   background-color: #f1f1f1;
+   color: #333;
+}
+
+body.dark-mode .search-form input {
+   background-color: #34495e;
+   color: #ecf0f1;
+}
+
+.inline-btn, .inline-option-btn {
+   background-color: #3498db;
+   color: white;
+}
+
+body.dark-mode .inline-btn, body.dark-mode .inline-option-btn {
+   background-color: #34495e;
+   color: white;
+}
+
+/* Profile/Login Button */
+
+
+.profile a.btn {
+   display: inline-block;
+   background-color: #3498db;
+   color: white;
+   padding: 10px 20px;
+   border-radius: 25px;
+   text-decoration: none;
+}
+
+body.dark-mode .profile a.btn {
+   background-color: #34495e;
+}
+/* Profile Dropdown */
+.profile-dropdown {
+   position: absolute;
+   top: 60px;
+   right: 20px;
+   background-color: #3498db;
+   border-radius: 5px;
+   padding: 10px;
+   display: none; /* Hidden by default */
+   z-index: 1000;
+}
+
+.profile-dropdown a.btn {
+   display: block;
+   padding: 10px;
+   background-color: #ffffff;
+   color: #333;
+   text-align: center;
+   border-radius: 5px;
+}
+
+.profile-dropdown a.btn:hover {
+   background-color: #34495e;
+   color: white;
+}
+
+body.dark-mode .profile-dropdown {
+   background-color: #34495e;
+}
+
+body.dark-mode .profile-dropdown a.btn {
+   background-color: #2c3e50;
+   color: #ecf0f1;
+}
+
+body.dark-mode .profile-dropdown a.btn:hover {
+   background-color: #3498db;
+   color: #ffffff;
+}
+/* Centering the form container */
+.form-container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 80vh; /* Adjusted to fit the footer */
+   padding: 20px;
+   background-color: #f4f4f4;
+}
+
+/* Styling the form box */
+.form-box {
+   background-color: white;
+   padding: 40px;
+   border-radius: 10px;
+   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+   width: 100%;
+   max-width: 400px;
+}
+
+.form-box h3 {
+   margin-bottom: 20px;
+   font-size: 2rem;
+   color: #333;
+   text-align: center;
+}
+
+.form-box p {
+   font-size: 1rem;
+   color: #666;
+   margin-bottom: 8px;
+}
+
+.form-box .box {
+   width: 100%;
+   padding: 10px;
+   margin-bottom: 20px;
+   font-size: 1rem;
+   border-radius: 5px;
+   border: 1px solid #ccc;
+}
+
+.form-box .btn {
+   width: 100%;
+   padding: 10px;
+   background-color: #007BFF;
+   color: white;
+   border: none;
+   border-radius: 5px;
+   font-size: 1rem;
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+}
+
+.form-box .btn:hover {
+   background-color: #0056b3;
+}
+
+.register-link {
+   text-align: center;
+   margin-top: 15px;
+   font-size: 0.9rem;
+}
+
+.register-link a {
+   color: #007BFF;
+   text-decoration: none;
+}
+
+.register-link a:hover {
+   text-decoration: underline;
+}
+/* General styling for search page */
+.search-results {
+   padding: 20px;
+   background-color: #f4f4f4;
+}
+
+.search-results .container {
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 20px;
+   background-color: white;
+   border-radius: 10px;
+   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.search-results .heading {
+   font-size: 2rem;
+   margin-bottom: 20px;
+   color: #333;
+   text-align: center;
+}
+
+.results {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.result-item {
+   background-color: #fff;
+   padding: 15px;
+   border-radius: 5px;
+   margin-bottom: 15px;
+   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+   width: 100%;
+   max-width: 600px;
+}
+
+.result-item h3 {
+   margin: 0;
+   font-size: 1.5rem;
+   color: #007bff;
+}
+
+.result-item p {
+   font-size: 1rem;
+   color: #666;
+   margin: 10px 0;
+}
+
+.result-item .inline-btn {
+   display: inline-block;
+   padding: 10px 20px;
+   background-color: #007bff;
+   color: white;
+   text-decoration: none;
+   border-radius: 5px;
+   font-size: 1rem;
+   transition: background-color 0.3s ease;
+}
+
+.result-item .inline-btn:hover {
+   background-color: #0056b3;
+}
+/* Reset some default styles */
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+/* Body and HTML styling */
+html, body {
+   font-family: Arial, sans-serif;
+   line-height: 1.6;
+   color: #333;
+   background-color: #f4f4f4;
+}
+
+/* Header styling */
+.header {
+   background-color: #333;
+   color: #fff;
+   padding: 10px 0;
+   position: fixed;
+   width: 100%;
+   top: 0;
+   left: 0;
+   z-index: 1000;
+}
+
+.header .flex {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 0 20px;
+}
+
+.header .logo {
+   font-size: 24px;
+   color: #fff;
+   text-decoration: none;
+}
+
+.header .search-form {
+   display: flex;
+   align-items: center;
+}
+
+.header .search-form input[type="text"] {
+   padding: 5px;
+   border: none;
+   border-radius: 4px 0 0 4px;
+   outline: none;
+}
+
+.header .search-form button {
+   padding: 6px 10px;
+   border: none;
+   background-color: #444;
+   color: #fff;
+   cursor: pointer;
+   border-radius: 0 4px 4px 0;
+   font-size: 16px;
+}
+
+.header .icons {
+   display: flex;
+   align-items: center;
+}
+
+.header .icons div {
+   margin: 0 10px;
+   cursor: pointer;
+   font-size: 20px;
+}
+
+.header .profile {
+   display: none;
+   position: absolute;
+   top: 60px;
+   right: 20px;
+   background-color: #fff;
+   color: #333;
+   padding: 10px;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.header .profile img {
+   width: 50px;
+   height: 50px;
+   border-radius: 50%;
+}
+
+.header .profile .name {
+   font-size: 18px;
+   margin: 10px 0 5px;
+}
+
+.header .profile .role {
+   color: #888;
+}
+
+.header .profile .btn {
+   display: block;
+   margin-top: 10px;
+   text-decoration: none;
+   background-color: #333;
+   color: #fff;
+   padding: 8px 15px;
+   text-align: center;
+   border-radius: 4px;
+}
+
+.header .profile .flex-btn {
+   display: flex;
+   justify-content: space-between;
+}
+
+.header .profile .option-btn {
+   background-color: #444;
+   color: #fff;
+   padding: 8px 15px;
+   text-align: center;
+   border-radius: 4px;
+   text-decoration: none;
+}
+
+/* Sidebar styling */
+.side-bar {
+   width: 250px;
+   height: 100%;
+   background-color: #333;
+   color: #fff;
+   position: fixed;
+   top: 0;
+   left: -250px;
+   transition: left 0.3s;
+   overflow: auto;
+   z-index: 1000;
+}
+
+.side-bar #close-btn {
+   font-size: 24px;
+   text-align: right;
+   padding: 10px;
+   cursor: pointer;
+}
+
+.side-bar .profile {
+   padding: 3rem 2rem;
+   text-align: center;
+   background-color: #444; /* Darker background for profile */
+   border-bottom: 1px solid #555; /* Slightly lighter border */
+}
+
+.side-bar .profile .image {
+   height: 6rem;          /* Adjust based on design */
+   width: 6rem;           /* Adjust based on design */
+   border-radius: 50%;
+   object-fit: cover;
+   margin-bottom: 1rem;
+   border: 2px solid #fff; /* Optional: Add a border for better visibility */
+   padding: 0.5rem;       /* Optional: Add padding to ensure border visibility */
+}
+
+
+.side-bar .profile .name {
+   font-size: 2rem;
+   color: #fff; /* White text color */
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+}
+
+.side-bar .profile .role {
+   font-size: 1.8rem;
+   color: #bbb; /* Light gray color */
+}
+
+
+
+.side-bar .navbar {
+   display: flex;
+   flex-direction: column;
+}
+
+.side-bar .navbar a {
+   text-decoration: none;
+   color: #ffffff;
+   padding: 10px 20px;
+   display: flex;
+   align-items: center;
+}
+
+.side-bar .navbar a i {
+   margin-right: 10px;
+}
+
+.side-bar .navbar a span {
+   font-size: 16px;
+}
+
+/* Playlist details styling */
+.playlist-details {
+   margin: 80px 20px 20px 270px;
+   padding: 20px;
+   background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.playlist-details .row {
+   display: flex;
+   gap: 20px;
+}
+
+.playlist-details .column {
+   flex: 1;
+}
+
+.playlist-details .thumb img {
+   width: 100%;
+   border-radius: 8px;
+}
+
+.playlist-details .thumb span {
+   display: block;
+   margin-top: 5px;
+   color: #888;
+}
+
+.playlist-details .tutor {
+   display: flex;
+   align-items: center;
+}
+
+.playlist-details .tutor img {
+   width: 60px;
+   height: 60px;
+   border-radius: 50%;
+   margin-right: 10px;
+}
+
+.playlist-details .tutor h3 {
+   margin: 0;
+}
+
+.playlist-details .details {
+   margin-top: 20px;
+}
+
+.playlist-details .details p {
+   margin: 10px 0;
+}
+
+.playlist-details .inline-btn {
+   text-decoration: none;
+   color: #fff;
+   background-color: #333;
+   padding: 8px 15px;
+   border-radius: 4px;
+}
+
+/* Playlist videos styling */
+.playlist-videos {
+   margin: 20px;
+}
+
+.playlist-videos .box-container {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 20px;
+}
+
+.playlist-videos .box {
+   background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   overflow: hidden;
+   text-align: center;
+   flex: 1;
+   max-width: calc(33.333% - 20px);
+   cursor: pointer;
+}
+
+.playlist-videos .box img {
+   width: 100%;
+   height: auto;
+}
+
+.playlist-videos .box h3 {
+   padding: 10px;
+   font-size: 16px;
+}
+
+/* Footer styling */
+.footer {
+   background-color: #068eef;
+   color: #fff;
+   text-align: center;
+   padding: 10px;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
+/* Reset some default styles */
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+/* Body and HTML styling */
+html, body {
+   font-family: Arial, sans-serif;
+   line-height: 1.6;
+   color: #333;
+   background-color: #f4f4f4;
+}
+
+/* Header styling */
+.header {
+   background-color: #333;
+   color: #fff;
+   padding: 10px 0;
+   position: fixed;
+   width: 100%;
+   top: 0;
+   left: 0;
+   z-index: 1000;
+}
+
+.header .flex {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 0 20px;
+}
+
+.header .logo {
+   font-size: 24px;
+   color: #fff;
+   text-decoration: none;
+}
+
+.header .search-form {
+   display: flex;
+   align-items: center;
+}
+
+.header .search-form input[type="text"] {
+   padding: 5px;
+   border: none;
+   border-radius: 4px 0 0 4px;
+   outline: none;
+}
+
+.header .search-form button {
+   padding: 6px 10px;
+   border: none;
+   background-color: #444;
+   color: #fff;
+   cursor: pointer;
+   border-radius: 0 4px 4px 0;
+   font-size: 16px;
+}
+
+.header .icons {
+   display: flex;
+   align-items: center;
+}
+
+.header .icons div {
+   margin: 0 10px;
+   cursor: pointer;
+   font-size: 20px;
+}
+
+.header .profile {
+   display: none;
+   position: absolute;
+   top: 60px;
+   right: 20px;
+   background-color: #fff;
+   color: #333;
+   padding: 10px;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+   align-items: center;
+}
+
+.header .profile img {
+   width: 50px;
+   height: 50px;
+   border-radius: 50%;
+}
+
+.header .profile .name {
+   font-size: 18px;
+   margin: 10px 0 5px;
+}
+
+.header .profile .role {
+   color: #888;
+}
+
+.header .profile .btn {
+   display: block;
+   margin-top: 10px;
+   text-decoration: none;
+   background-color: #333;
+   color: #fff;
+   padding: 8px 15px;
+   text-align: center;
+   border-radius: 4px;
+}
+
+.header .profile .flex-btn {
+   display: flex;
+   justify-content: space-between;
+}
+
+.header .profile .option-btn {
+   background-color: #444;
+   color: #fff;
+   padding: 8px 15px;
+   text-align: center;
+   border-radius: 4px;
+   text-decoration: none;
+}
+
+/* Sidebar styling */
+.side-bar {
+   width: 250px;
+   height: 100%;
+   background-color: #333;
+   color: #fff;
+   position: fixed;
+   top: 0;
+   left: -250px;
+   transition: left 0.3s;
+   overflow: auto;
+   z-index: 1000;
+}
+
+.side-bar #close-btn {
+   font-size: 24px;
+   text-align: right;
+   padding: 10px;
+   cursor: pointer;
+}
+
+.side-bar .profile {
+   padding: 3rem 2rem;
+   text-align: center;
+   background-color: #444; /* Darker background for profile */
+   border-bottom: 1px solid #555; /* Slightly lighter border */
+}
+
+.side-bar .profile .image {
+   height: 6rem;          /* Adjust based on design */
+   width: 6rem;           /* Adjust based on design */
+   border-radius: 50%;
+   object-fit: cover;
+   margin-bottom: 1rem;
+   border: 2px solid #fff; /* Optional: Add a border for better visibility */
+   padding: 0.5rem;       /* Optional: Add padding to ensure border visibility */
+}
+
+
+.side-bar .profile .name {
+   font-size: 2rem;
+   color: #fff; /* White text color */
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+}
+
+.side-bar .profile .role {
+   font-size: 1.8rem;
+   color: #bbb; /* Light gray color */
+}
+
+
+.side-bar .navbar {
+   display: flex;
+   flex-direction: column;
+}
+
+.side-bar .navbar a {
+   text-decoration: none;
+   color: #fff;
+   padding: 10px 20px;
+   display: flex;
+   align-items: center;
+}
+
+.side-bar .navbar a i {
+   margin-right: 10px;
+}
+
+.side-bar .navbar a span {
+   font-size: 16px;
+}
+
+/* User profile section styling */
+.user-profile {
+   margin: 80px 20px 20px 270px;
+   padding: 20px;
+   background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   align-items: center;
+}
+
+.user-profile .info {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.user-profile .user {
+   text-align: center;
+}
+
+.user-profile .user img {
+   width: 100px;
+   height: 100px;
+   border-radius: 50%;
+}
+
+.user-profile .user h3 {
+   margin: 10px 0;
+   font-size: 24px;
+}
+
+.user-profile .user p {
+   color: #888;
+}
+
+.user-profile .inline-btn {
+   display: inline-block;
+   text-decoration: none;
+   background-color: #333;
+   color: #fff;
+   padding: 8px 15px;
+   border-radius: 4px;
+   margin-top: 10px;
+}
+
+.user-profile .box-container {
+   display: flex;
+   gap: 20px;
+   margin-top: 20px;
+   align-items: center;
+}
+
+.user-profile .box {
+   background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   padding: 15px;
+   text-align: center;
+   flex: 1;
+}
+
+.user-profile .box .flex {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-bottom: 10px;
+}
+
+.user-profile .box i {
+   font-size: 24px;
+   margin-right: 10px;
+}
+
+.user-profile .box span {
+   display: block;
+   font-size: 24px;
+   font-weight: bold;
+}
+
+.user-profile .box p {
+   margin: 5px 0;
+}
+
+/* Footer styling */
+.footer {
+   background-color: #009bf5;
+   color: #fff;
+   text-align: center;
+   padding: 10px;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
+/* Reset some default styles */
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+/* Body and HTML styling */
+html, body {
+   font-family: Arial, sans-serif;
+   line-height: 1.6;
+   color: #333;
+   background-color: #f4f4f4;
+}
+
+/* Header styling */
+.header {
+   background-color: #5a72ed;
+   color: #fff;
+   padding: 10px 0;
+   position: fixed;
+   width: 100%;
+   top: 0;
+   left: 0;
+   z-index: 1000;
+}
+
+.header .flex {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 0 20px;
+}
+
+.header .logo {
+   font-size: 24px;
+   color: #fff;
+   text-decoration: none;
+}
+
+.header .search-form {
+   display: flex;
+   align-items: center;
+}
+
+.header .search-form input[type="text"] {
+   padding: 5px;
+   border: none;
+   border-radius: 4px 0 0 4px;
+   outline: none;
+}
+
+.header .search-form button {
+   padding: 6px 10px;
+   border: none;
+   background-color: #168ee3;
+   color: #fff;
+   cursor: pointer;
+   border-radius: 0 4px 4px 0;
+   font-size: 16px;
+}
+
+.header .icons {
+   display: flex;
+   align-items: center;
+}
+
+.header .icons div {
+   margin: 0 10px;
+   cursor: pointer;
+   font-size: 20px;
+}
+
+.header .profile {
+   display: none;
+   position: absolute;
+   top: 60px;
+   right: 20px;
+   background-color: #fff;
+   color: #107fe1;
+   padding: 10px;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.header .profile img {
+   width: 50px;
+   height: 50px;
+   border-radius: 50%;
+}
+
+.header .profile .name {
+   font-size: 18px;
+   margin: 10px 0 5px;
+}
+
+.header .profile .role {
+   color: #888;
+}
+
+.header .profile .btn {
+   display: block;
+   margin-top: 10px;
+   text-decoration: none;
+   background-color: #0413ea;
+   color: #fff;
+   padding: 8px 15px;
+   text-align: center;
+   border-radius: 4px;
+}
+
+.header .profile .flex-btn {
+   display: flex;
+   justify-content: space-between;
+}
+
+.header .profile .option-btn {
+   background-color: #1869e3;
+   color: #fff;
+   padding: 8px 15px;
+   text-align: center;
+   border-radius: 4px;
+   text-decoration: none;
+}
+
+/* Sidebar styling */
+.side-bar {
+   width: 250px;
+   height: 100%;
+   background-color: #6c2243;
+   color: #fff;
+   position: fixed;
+   top: 0;
+   left: -250px;
+   transition: left 0.3s;
+   overflow: auto;
+   z-index: 1000;
+}
+
+.side-bar #close-btn {
+   font-size: 24px;
+   text-align: right;
+   padding: 10px;
+   cursor: pointer;
+}
+
+.side-bar .profile {
+   padding: 3rem 2rem;
+   text-align: center;
+   background-color: #444; /* Darker background for profile */
+   border-bottom: 1px solid #555; /* Slightly lighter border */
+}
+
+.side-bar .profile .image {
+   height: 10rem;
+   width: 10rem;
+   border-radius: 50%;
+   object-fit: cover; /* Adjusted for better image fit */
+   margin-bottom: 1rem;
+}
+
+.side-bar .profile .name {
+   font-size: 2rem;
+   color: #fff; /* White text color */
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+}
+
+.side-bar .profile .role {
+   font-size: 1.8rem;
+   color: #bbb; /* Light gray color */
+}
+
+
+.side-bar .navbar {
+   display: flex;
+   flex-direction: column;
+}
+
+.side-bar .navbar a {
+   text-decoration: none;
+   color: #fff;
+   padding: 10px 20px;
+   display: flex;
+   align-items: center;
+}
+
+.side-bar .navbar a i {
+   margin-right: 10px;
+}
+
+.side-bar .navbar a span {
+   font-size: 16px;
+}
+
+/* Watch video section styling */
+.watch-video {
+   margin: 80px 20px 20px 270px;
+   padding: 20px;
+   background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.watch-video .video-container {
+   text-align: center;
+}
+
+.watch-video .video {
+   margin-bottom: 20px;
+}
+
+.watch-video .video video {
+   width: 100%;
+   border-radius: 8px;
+}
+
+.watch-video .title {
+   font-size: 24px;
+   margin: 10px 0;
+}
+
+.watch-video .info {
+   display: flex;
+   justify-content: center;
+   gap: 20px;
+   margin: 10px 0;
+}
+
+.watch-video .info p {
+   display: flex;
+   align-items: center;
+   font-size: 14px;
+}
+
+.watch-video .info i {
+   margin-right: 5px;
+}
+
+.watch-video .tutor {
+   display: flex;
+   align-items: center;
+   margin: 20px 0;
+}
+
+.watch-video .tutor img {
+   width: 50px;
+   height: 50px;
+   border-radius: 50%;
+   margin-right: 10px;
+}
+
+.watch-video .tutor h3 {
+   margin: 0;
+}
+
+.watch-video .tutor span {
+   color: #888;
+}
+
+.watch-video .description {
+   margin-top: 20px;
+   line-height: 1.6;
+}
+
+/* Comments section styling */
+.comments {
+   margin: 20px 20px;
+}
+
+.comments .heading {
+   font-size: 24px;
+   margin-bottom: 20px;
+}
+
+.comments .add-comment {
+   margin-bottom: 30px;
+}
+
+.comments .add-comment textarea {
+   width: 100%;
+   padding: 10px;
+   border: 1px solid #ddd;
+   border-radius: 4px;
+   font-size: 16px;
+   margin-bottom: 10px;
+   resize: vertical;
+}
+
+.comments .add-comment input[type="submit"] {
+   background-color: #333;
+   color: #fff;
+   border: none;
+   padding: 10px 20px;
+   border-radius: 4px;
+   cursor: pointer;
+}
+
+.comments .box-container {
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+}
+
+.comments .box {
+   background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   padding: 15px;
+}
+
+.comments .box .user {
+   display: flex;
+   align-items: center;
+   margin-bottom: 10px;
+}
+
+.comments .box .user img {
+   width: 50px;
+   height: 50px;
+   border-radius: 50%;
+   margin-right: 10px;
+}
+
+.comments .box .user h3 {
+   margin: 0;
+   font-size: 18px;
+}
+
+.comments .box .user span {
+   color: #888;
+}
+
+.comments .box .comment-box {
+   margin-bottom: 10px;
+   line-height: 1.6;
+}
+
+.comments .box .flex-btn {
+   display: flex;
+   justify-content: space-between;
+}
+
+.comments .box .inline-option-btn,
+.comments .box .inline-delete-btn {
+   background-color: #444;
+   color: #fff;
+   border: none;
+   padding: 6px 12px;
+   border-radius: 4px;
+   cursor: pointer;
+   font-size: 14px;
+}
+
+.comments .box .inline-option-btn {
+   background-color: #666;
+}
+
+.comments .box .inline-delete-btn {
+   background-color: #d9534f;
+}
+
+/* Footer styling */
+.footer {
+   background-color: #0073d1;
+   color: #5b3737;
+   text-align: center;
+   padding: 5px;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
+/* Watch video section styling */
+.watch-video {
+   margin: 80px 20px 20px 270px;
+   padding: 20px;
+   background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.watch-video .video-container {
+   display: flex;
+   flex-direction: column;
+   align-items: center; /* Center items horizontally */
+   text-align: center;
+}
+
+.watch-video .video {
+   width: 100%;
+   max-width: 800px; /* Optional: restrict the maximum width of the video */
+   margin-bottom: 20px;
+}
+
+.watch-video .video video {
+   width: 100%; /* Ensure the video takes the full width of the container */
+   border-radius: 8px;
+}
+
+.watch-video .title {
+   font-size: 24px;
+   margin-bottom: 10px;
+}
+
+.watch-video .info {
+   margin-bottom: 20px;
+}
+
+.watch-video .description {
+   margin-top: 20px;
+}
+.contact {
+   padding: 5rem 2rem;
+   margin-top: 80px;
+}
+
+.contact .row {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 2rem;
+}
+
+.contact .image img {
+   width: 100%;
+   border-radius: 0.5rem;
+}
+
+.contact form {
+   flex: 1;
+   background-color: #fff;
+   padding: 2rem;
+   border-radius: 0.5rem;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact form h3 {
+   margin-bottom: 1.5rem;
+   color: #333;
+   font-size: 1.8rem;
+}
+
+.contact form .box {
+   width: 100%;
+   padding: 0.8rem;
+   margin-bottom: 1rem;
+   border: 1px solid #ddd;
+   border-radius: 0.5rem;
+}
+
+.contact form .inline-btn {
+   padding: 0.8rem 2rem;
+   background-color: #007bff;
+   color: #fff;
+   border: none;
+   border-radius: 0.5rem;
+   cursor: pointer;
+   font-size: 1rem;
+   width: 100%;
+   margin-top: 1rem;
+}
+
+.contact .box-container {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 2rem;
+   margin-top: 2rem;
+}
+
+.contact .box {
+   flex: 1;
+   padding: 1rem;
+   background-color: #fff;
+   border-radius: 0.5rem;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   text-align: center;
+}
+
+.contact .box i {
+   font-size: 2rem;
+   color: #007bff;
+   margin-bottom: 1rem;
+}
+
+.contact .box h3 {
+   font-size: 1.2rem;
+   color: #333;
+   margin-bottom: 0.5rem;
+}
+
+.contact .box a {
+   display: block;
+   font-size: 1rem;
+   color: #007bff;
+   text-decoration: none;
+}
+
+.contact .box a:hover {
+   text-decoration: underline;
+}
+teachers .search-tutor{
+   margin-bottom: 2rem;
+   border-radius: .5rem;
+   background-color: var(--white);
+   padding: 1.5rem 2rem;
+   display: flex;
+   align-items: center;
+   gap: 1.5rem;
+}
+
+.teachers .search-tutor input{
+   width: 100%;
+   background: none;
+   font-size: 1.8rem;
+   color: var(--black);
+}
+
+.teachers .search-tutor button{
+   font-size: 2rem;
+   color: var(--black);
+   cursor: pointer;
+   background:none;
+}
+
+.teachers .search-tutor button:hover{
+   color: var(--main-color);
+}
+
+.teachers .box-container{
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+   gap:1.5rem;
+   justify-content: center;
+   align-items: flex-start;
+}
+
+.teachers .box-container .box{
+   background-color: var(--white);
+   border-radius: .5rem;
+   padding: 2rem;
+}
+
+.teachers .box-container .offer{
+   text-align: center;
+}
+
+.teachers .box-container .offer h3{
+   font-size: 2.5rem;
+   color: var(--black);
+   text-transform: capitalize;
+   padding-bottom: .5rem;
+}
+
+.teachers .box-container .offer p{
+   line-height: 1.7;
+   padding: .5rem 0;
+   color: var(--light-color);
+   font-size: 1.7rem;
+}
+
+.teachers .box-container .box .tutor{
+   display: flex;
+   align-items: center;
+   gap:2rem;
+   margin-bottom: 1.5rem;
+}
+
+.teachers .box-container .box .tutor img{
+   height: 5rem;
+   width: 5rem;
+   border-radius: 50%;
+}
+
+.teachers .box-container .box .tutor h3{
+   font-size: 2rem;
+   color: var(--black);
+   margin-bottom: .2rem;
+}
+
+.teachers .box-container .box .tutor span{
+   font-size: 1.6rem;
+   color: var(--light-color);
+}
+
+.teachers .box-container .box p{
+   padding: .5rem 0;
+   font-size: 1.7rem;
+   color: var(--light-color);
+}
+
+.teachers .box-container .box p span{
+   color: var(--main-color);
+}
+
+.teacher-profile .details{
+   text-align: center;
+   background-color: var(--white);
+   border-radius: .5rem;
+   padding: 2rem;
+}
+
+.teacher-profile .details .tutor img{
+   height: 10rem;
+   width: 10rem;
+   border-radius: 50%;
+   object-fit: cover;
+   margin-bottom: 1rem;
+}
+
+.teacher-profile .details .tutor h3{
+   font-size: 2rem;
+   color: var(--black);
+}
+
+.teacher-profile .details .tutor span{
+   color: var(--light-color);
+   font-size: 1.7rem;
+}
+
+.teacher-profile .details .flex{
+   display: flex;
+   flex-wrap: wrap;
+   gap: 1.5rem;
+   margin-top: 2rem;
+}
+
+.teacher-profile .details .flex p{
+   flex: 1 1 20rem;
+   border-radius: .5rem;
+   background-color: var(--light-bg);
+   padding: 1.2rem 2rem;
+   font-size: 1.8rem;
+   color: var(--light-color);
+}
+
+.teacher-profile .details .flex p span{
+   color: var(--main-color);
+}
+
+.user-profile .info{
+   background-color: var(--white);
+   border-radius: .5rem;
+   padding: 2rem;
+}
+/* Styling for the form container */
+.form-container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+   background-color: #f0f0f0; /* Background for the page */
+}
+
+/* Styling for the login form box */
+.form-container .login {
+   background-color: #fff;
+   padding: 30px;
+   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); /* Shadow for the box effect */
+   border-radius: 10px;
+   width: 100%;
+   max-width: 400px; /* Max width for the box */
+   text-align: center; /* Center align the text inside */
+}
+
+.form-container .login h3 {
+   font-size: 24px;
+   margin-bottom: 20px;
+   color: #333;
+}
+
+.form-container .login p {
+   margin-bottom: 15px;
+   font-size: 14px;
+   color: #666;
+}
+
+.form-container .login input.box {
+   width: 100%;
+   padding: 10px;
+   margin-bottom: 15px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   font-size: 16px;
+}
+
+.form-container .login .btn {
+   background-color: #28a745;
+   color: white;
+   border: none;
+   padding: 10px 20px;
+   font-size: 16px;
+   cursor: pointer;
+   border-radius: 5px;
+   width: 100%;
+}
+
+.form-container .login .btn:hover {
+   background-color: #218838;
+}
+
+/* Error messages */
+.error-messages p {
+   margin: 0;
+   font-size: 14px;
+   color: red;
+}
+
+/* Link to register */
+.form-container .login .link {
+   font-size: 14px;
+   color: #666;
+}
+.form-container .login .link a {
+   color: #007bff;
+   text-decoration: none;
+}
+
+.form-container .login .link a:hover {
+   text-decoration: underline;
+}
+/* Styling for the form container */
+.form-container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+   background-color: #f4f4f4;
+}
+
+/* Styling for the login form box */
+.form-container .login {
+   background-color: #fff;
+   padding: 30px;
+   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); /* Box shadow */
+   border-radius: 10px;
+   width: 100%;
+   max-width: 400px;
+   text-align: center;
+}
+
+.form-container .login h3 {
+   font-size: 24px;
+   margin-bottom: 20px
+}
+/* Center the profile section */
+.user-profile {
+   margin: 80px auto 20px auto; /* Center horizontally by setting left and right margins to auto */
+   padding: 20px;
+   background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   max-width: 1200px; /* Optional: adjust based on your design */
+}
+
+/* Container for statistics boxes */
+.user-profile .box-container {
+   display: flex;
+   gap: 20px;
+   margin-top: 20px;
+   justify-content: center; /* Center the boxes horizontally */
+   flex-wrap: wrap; /* Allow boxes to wrap on smaller screens */
+   align-items: center;
+}
+
+/* Styling for individual boxes */
+.user-profile .box {
+   background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   padding: 15px;
+   text-align: center;
+   flex: 1;
+   min-width: 200px; /* Ensure minimum width for boxes */
+   max-width: 300px; /* Optional: limit maximum width of boxes */
+   align-items: center;
+}
+/* Chatbot Button */
+.chatbot-button {
+   position: fixed;
+   bottom: 20px;
+   right: 20px;
+   background-color: #007bff;
+   color: white;
+   border: none;
+   border-radius: 50%;
+   width: 60px;
+   height: 60px;
+   cursor: pointer;
+   font-size: 24px;
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+   z-index: 1000;
+}
+
+/* Chatbot Window */
+.chatbot-window {
+   position: fixed;
+   bottom: 90px;
+   right: 20px;
+   width: 300px;
+   max-height: 400px;
+   background-color: white;
+   border: 1px solid #ccc;
+   border-radius: 10px;
+   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+   display: none;
+   flex-direction: column;
+   z-index: 1000;
+   overflow: hidden;
+}
+
+/* Chatbot Header */
+.chatbot-header {
+   background-color: #007bff;
+   color: white;
+   padding: 10px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+/* Close Button */
+.close-btn {
+   background: none;
+   border: none;
+   color: white;
+   font-size: 20px;
+   cursor: pointer;
+}
+
+/* Chat Messages */
+.chatbot-messages {
+   flex: 1;
+   padding: 10px;
+   overflow-y: auto;
+   background-color: #f9f9f9;
+}
+
+/* Chat Input */
+.chatbot-input {
+   display: flex;
+   border-top: 1px solid #ccc;
+}
+
+.chatbot-input input {
+   flex: 1;
+   padding: 10px;
+   border: none;
+   border-bottom-left-radius: 10px;
+}
+
+.chatbot-input button {
+   padding: 10px;
+   background-color: #007bff;
+   color: white;
+   border: none;
+   cursor: pointer;
+   border-bottom-right-radius: 10px;
+}
+
+/* Message Styles */
+.message {
+   margin-bottom: 10px;
+}
+
+.message.user {
+   text-align: right;
+}
+
+.message.user .message-content {
+   background-color: #007bff;
+   color: white;
+   display: inline-block;
+   padding: 8px 12px;
+   border-radius: 15px;
+}
+
+.message.bot .message-content {
+   background-color: #e1e1e1;
+   display: inline-block;
+   padding: 8px 12px;
+   border-radius: 15px;
+}
+.profile-dropdown {
+   display: none; /* Initially hidden */
+   position: absolute;
+   top: 60px; /* Adjust as needed */
+   right: 20px; /* Adjust as needed */
+   background-color: white;
+   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+   z-index: 1000;
+}
+
+.profile-dropdown.active {
+   display: block; /* Show when active */
+}
+#bp-web-widget {
+   display: none !important;
+}

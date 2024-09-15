@@ -1,0 +1,1161 @@
+Received: Array
+(
+    [message] => hi
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Response: Hi there! How can I help you today?
+Received: Array
+(
+    [message] => hi
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Response: Hi there! How can I help you today?
+Received: Array
+(
+    [message] => bye
+    [type] => text
+)
+
+Response: Goodbye! Have a great day!
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Response: Hi there! How can I help you today?
+Received: Array
+(
+    [message] => hi
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => how can i prepare for exams?
+    [type] => text
+)
+
+Response: For exam preparation, review your notes regularly, solve past papers, create a study plan, and focus on understanding concepts rather than memorizing.
+Received: Array
+(
+    [message] => what is a schema migration?
+    [type] => text
+)
+
+Response: Schema migration is the process of changing the structure of a database schema, such as adding or modifying tables and columns, often as part of application development.
+Received: Array
+(
+    [message] => what is the purpose of the RegExp object in JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is the purpose of the RegExp object in JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is the purpose of the RegExp object in JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is the purpose of the RegExp object in JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is the purpose of the RegExp object in JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is the purpose of the RegExp object in JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is the purpose of the map() method on arrays in JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is a callback function in JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is behavior-driven development?
+    [type] => text
+)
+
+Response: Behavior-driven development (BDD) is a software development practice that encourages collaboration between developers, testers, and non-technical stakeholders to define the behavior of an application.
+Received: Array
+(
+    [message] => what is denormalization?
+    [type] => text
+)
+
+Response: Denormalization is the process of combining tables in a database to improve query performance, often at the cost of increased redundancy.
+Received: Array
+(
+    [message] => what is a test suite?
+    [type] => text
+)
+
+Response: A test suite is a collection of test cases that are executed together to verify the correctness of a software application.
+Received: Array
+(
+    [message] => what is JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Response: Hi there! How can I help you today?
+Received: Array
+(
+    [message] => why is time management important for students?
+    [type] => text
+)
+
+Response: Time management is crucial for students to balance academic responsibilities, extracurricular activities, and personal life effectively.
+Received: Array
+(
+    [message] => why is time management important for students?
+    [type] => text
+)
+
+Response: Time management is crucial for students to balance academic responsibilities, extracurricular activities, and personal life effectively.
+Received: Array
+(
+    [message] => what is the <data> tag?
+    [type] => text
+)
+
+Response: The <data> tag links content with a machine-readable value, useful for data processing and formatting.
+Received: Array
+(
+    [message] => what is the purpose of the import statement in JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is the purpose of the import statement in JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Response: Hi there! How can I help you today?
+Received: Array
+(
+    [message] => what question i can ask?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is html?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is the difference between function declarations and function expressions in JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is the <header> tag?
+    [type] => text
+)
+
+Response: The <header> tag represents introductory content or a group of navigational aids, often used at the top of a page or section.
+Received: Array
+(
+    [message] => what is the <figcaption> tag?
+    [type] => text
+)
+
+Response: The <figcaption> tag provides a caption or legend for a <figure> element, describing its content.
+Received: Array
+(
+    [message] => what is JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is the <data> tag?
+    [type] => text
+)
+
+Response: The <data> tag links content with a machine-readable value, useful for data processing and formatting.
+Received: Array
+(
+    [message] => what is the <data> tag?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => "hello"
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is the purpose of the import statement in JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is problem-based learning?
+    [type] => text
+)
+
+Responses Loaded: Array
+(
+    [response1] => Array
+        (
+            [hello] => Hi there! How can I help you today?
+            [how are you?] => I am just a program, but I am doing great!
+            [bye] => Goodbye! Have a great day!
+            [what is the importance of education?] => Education is essential as it empowers individuals with knowledge, skills, and critical thinking abilities for personal and professional growth.
+            [how can i improve my learning skills?] => To improve your learning skills, focus on active learning, consistent practice, time management, and using diverse study resources.
+            [what is the best way to study?] => The best way to study varies, but active learning, spaced repetition, and understanding the core concepts are highly effective methods.
+            [how do i stay motivated to study?] => Stay motivated by setting clear goals, breaking down tasks, rewarding yourself for progress, and keeping a positive mindset.
+            [what are the benefits of online education?] => Online education offers flexibility, access to a wide range of resources, and the ability to learn at your own pace from anywhere in the world.
+            [how can i prepare for exams?] => For exam preparation, review your notes regularly, solve past papers, create a study plan, and focus on understanding concepts rather than memorizing.
+            [how do i manage study stress?] => Manage study stress by taking breaks, practicing mindfulness, staying organized, and maintaining a healthy lifestyle with proper sleep and nutrition.
+            [what is a growth mindset?] => A growth mindset is the belief that abilities and intelligence can be developed with effort, learning, and persistence, which leads to better academic and personal outcomes.
+            [why is critical thinking important in education?] => Critical thinking is important as it helps students analyze, evaluate, and create logical solutions to problems, making learning more effective and insightful.
+            [how do i improve my time management skills?] => Improve time management by creating a schedule, prioritizing tasks, setting realistic goals, and avoiding procrastination.
+            [what are the best study habits?] => The best study habits include maintaining a consistent routine, active note-taking, practicing retrieval, and reviewing regularly to reinforce learning.
+            [what is active learning?] => Active learning involves engaging with the material through discussions, problem-solving, and hands-on activities rather than passive reading or listening.
+            [how do i take effective notes?] => Effective note-taking involves summarizing key points, using bullet points or diagrams, and organizing information in a way that makes it easy to review later.
+            [what are some online learning platforms?] => Some popular online learning platforms include Coursera, Udemy, edX, Khan Academy, and LinkedIn Learning.
+            [how do i improve my concentration while studying?] => Improve concentration by eliminating distractions, using the Pomodoro technique, and practicing mindfulness to stay focused.
+            [why is self-discipline important in education?] => Self-discipline is crucial as it helps students stay on track, manage their time effectively, and achieve their academic goals without relying on external motivation.
+            [how can i develop good study habits?] => Develop good study habits by creating a dedicated study space, setting specific goals, reviewing regularly, and staying organized.
+            [what are the advantages of collaborative learning?] => Collaborative learning encourages peer interaction, knowledge sharing, and the development of critical thinking and teamwork skills.
+            [what is lifelong learning?] => Lifelong learning is the continuous pursuit of knowledge and skills throughout one's life, for both personal and professional development.
+            [how do i improve my writing skills?] => Improve writing skills by practicing regularly, reading widely, seeking feedback, and focusing on structure, clarity, and coherence.
+            [why is reading important for students?] => Reading expands knowledge, improves vocabulary, enhances critical thinking, and helps students develop a broader understanding of the world.
+            [how can i create an effective study schedule?] => Create an effective study schedule by setting realistic goals, breaking tasks into manageable parts, and allocating time for review and breaks.
+            [what is blended learning?] => Blended learning combines traditional face-to-face instruction with online learning, allowing students to benefit from both methods.
+            [how do i improve my memory for exams?] => Improve memory by using techniques like mnemonics, visualization, and regular revision to reinforce learning.
+            [what is problem-based learning?] => Problem-based learning is an approach where students learn by solving real-world problems, encouraging critical thinking and practical application of knowledge.
+            [why is education important for career development?] => Education provides the knowledge, skills, and qualifications necessary for career advancement and personal growth in today’s competitive job market.
+            [how do i overcome procrastination?] => Overcome procrastination by breaking tasks into smaller steps, setting deadlines, and using tools like the Pomodoro technique to stay focused.
+            [what are the benefits of tutoring?] => Tutoring provides personalized instruction, helps clarify difficult concepts, and offers additional support to strengthen understanding and performance.
+            [what is peer learning?] => Peer learning involves students working together to help each other understand concepts, improve problem-solving skills, and enhance their learning experience.
+            [what is experiential learning?] => Experiential learning is learning through hands-on experience and reflection, helping students apply theoretical knowledge in practical situations.
+            [how can i improve my presentation skills?] => Improve presentation skills by practicing regularly, organizing your content, using visual aids, and maintaining eye contact with the audience.
+            [why is feedback important in learning?] => Feedback helps students understand their strengths and weaknesses, guiding them on how to improve and reinforcing the learning process.
+            [how do i improve my public speaking skills?] => Improve public speaking by practicing in front of an audience, organizing your speech, and focusing on clear communication and confidence.
+            [what is adaptive learning?] => Adaptive learning uses technology to adjust the learning experience based on the student’s needs, helping them progress at their own pace.
+            [how do i set academic goals?] => Set academic goals by identifying specific, measurable, achievable, relevant, and time-bound objectives that align with your personal and career aspirations.
+            [what are some effective study techniques?] => Effective study techniques include spaced repetition, summarization, teaching others, and using active recall to reinforce understanding.
+            [why is curiosity important in education?] => Curiosity drives students to explore, ask questions, and seek deeper understanding, making learning more engaging and meaningful.
+            [what is project-based learning?] => Project-based learning involves students working on a project over an extended period, applying knowledge to solve real-world challenges.
+            [how can i improve my research skills?] => Improve research skills by learning how to identify credible sources, organize information, and critically analyze data to support your findings.
+            [what is the role of technology in education?] => Technology enhances education by providing access to a wide range of resources, enabling interactive learning, and facilitating communication between students and teachers.
+            [how do i overcome test anxiety?] => Overcome test anxiety by practicing relaxation techniques, preparing thoroughly, and focusing on positive self-talk and staying calm during exams.
+            [what is inquiry-based learning?] => Inquiry-based learning encourages students to ask questions, investigate, and discover answers on their own, fostering critical thinking and problem-solving.
+            [how can i stay organized in school?] => Stay organized by using planners, to-do lists, and keeping your study materials and workspace neat and structured.
+            [what is flipped learning?] => Flipped learning reverses traditional teaching by having students learn new material at home and use class time for hands-on activities and problem-solving.
+            [how do i improve my problem-solving skills?] => Improve problem-solving skills by practicing critical thinking, analyzing problems from different perspectives, and using logical reasoning to find solutions.
+            [what is personalized learning?] => Personalized learning tailors educational content and pace to meet the individual needs and preferences of each student, enhancing their learning experience.
+            [how do i improve my analytical skills?] => Improve analytical skills by practicing critical thinking, working through complex problems, and using data and evidence to support your conclusions.
+            [what is the importance of creativity in education?] => Creativity in education encourages innovation, problem-solving, and out-of-the-box thinking, which helps students develop unique approaches to challenges.
+            [how can i prepare for a presentation?] => Prepare for a presentation by researching your topic, organizing your content, practicing in front of others, and using visual aids to support your points.
+            [why is collaboration important in education?] => Collaboration in education fosters teamwork, communication, and the sharing of diverse perspectives, helping students learn from each other.
+            [how do i balance school and extracurricular activities?] => Balance school and extracurricular activities by managing your time effectively, setting priorities, and staying organized with a schedule.
+            [what is self-directed learning?] => Self-directed learning involves taking initiative and responsibility for your own learning, setting goals, and seeking out resources independently.
+            [how can i improve my communication skills?] => Improve communication skills by practicing active listening, being clear and concise, and engaging in discussions with others to share and refine ideas.
+            [what is interdisciplinary learning?] => Interdisciplinary learning integrates knowledge and methods from different subjects to address complex problems, encouraging a broader perspective.
+            [how do i stay focused during online classes?] => Stay focused during online classes by eliminating distractions, taking notes, participating actively, and following a structured study routine.
+            [why is time management important for students?] => Time management is crucial for students to balance academic responsibilities, extracurricular activities, and personal life effectively.
+            [what is HTML?] => HTML stands for HyperText Markup Language. It is the standard language used to create and design web pages.
+            [what is an HTML tag?] => An HTML tag is a keyword or identifier surrounded by angle brackets used to define elements on a web page.
+            [what is the purpose of the <head> tag?] => The <head> tag contains meta-information about the HTML document, such as title, character set, and links to stylesheets.
+            [what is the <body> tag used for?] => The <body> tag contains the content of an HTML document, including text, images, and other elements visible on the web page.
+            [what are HTML attributes?] => HTML attributes provide additional information about HTML elements, such as class, id, and src, and are specified within the element’s opening tag.
+            [what is a div element?] => A div element is a block-level container used to group and style other elements, providing a way to structure web page content.
+            [what is a span element?] => A span element is an inline container used to group and style text or other elements within a block-level element.
+            [what is the difference between <ul> and <ol>?] => <ul> is used for unordered lists, where items are listed with bullets, while <ol> is used for ordered lists with numbered items.
+            [what is the <a> tag used for?] => The <a> tag is used to create hyperlinks that link to other pages, websites, or resources.
+            [what is a form element?] => A form element is used to collect user input through various input fields like text boxes, radio buttons, and checkboxes.
+            [what is the purpose of the <input> tag?] => The <input> tag defines an input field where users can enter data, and it supports various types such as text, password, and file uploads.
+            [what is an HTML table?] => An HTML table is used to display tabular data, consisting of rows and columns created with <table>, <tr>, <th>, and <td> elements.
+            [what is the <meta> tag?] => The <meta> tag provides metadata about the HTML document, such as charset, viewport settings, and SEO-related information.
+            [what is the difference between <section> and <article>?] => <section> represents a thematic grouping of content, while <article> represents a self-contained piece of content that could be distributed independently.
+            [what is the purpose of the <link> tag?] => The <link> tag is used to link external resources like stylesheets to an HTML document.
+            [what is a semantic HTML tag?] => Semantic HTML tags clearly describe their meaning in a human- and machine-readable way, such as <header>, <footer>, <nav>, and <main>.
+            [what is the <script> tag used for?] => The <script> tag is used to include JavaScript code in an HTML document or to link to an external JavaScript file.
+            [what are data attributes?] => Data attributes are custom attributes added to HTML elements to store extra data, accessible via JavaScript using dataset property.
+            [what is the purpose of the <style> tag?] => The <style> tag is used to include internal CSS styles within an HTML document.
+            [what is the <iframe> tag?] => The <iframe> tag creates an inline frame that allows embedding another HTML document within the current page.
+            [what is a comment in HTML?] => A comment in HTML is a piece of text included within <!-- --> that is not displayed on the page and is used to annotate code.
+            [what is the <noscript> tag?] => The <noscript> tag is used to define alternative content for browsers that do not support or have JavaScript disabled.
+            [what is the difference between <b> and <strong>?] => <b> makes text bold without implying any importance, while <strong> emphasizes the importance of the text and also makes it bold.
+            [what is the <br> tag used for?] => The <br> tag inserts a line break in the text, used to separate lines within an element.
+            [what is the <hr> tag used for?] => The <hr> tag creates a horizontal rule or line that separates content within a page.
+            [what are HTML5 semantic elements?] => HTML5 semantic elements include <article>, <aside>, <details>, <figcaption>, <figure>, <footer>, <header>, <main>, <mark>, <nav>, <section>, and <summary>, providing better structure and readability.
+            [what is the <meta charset="UTF-8"> tag?] => The <meta charset="UTF-8"> tag specifies the character encoding for the HTML document, ensuring proper display of text.
+            [what is the <button> tag used for?] => The <button> tag defines a clickable button, which can be used to submit forms or trigger JavaScript functions.
+            [what is the <label> tag?] => The <label> tag defines labels for form elements, providing a way to associate text with input fields.
+            [what is the <fieldset> tag?] => The <fieldset> tag groups related form controls and labels within a form, often used with <legend> to provide a caption.
+            [what is the <legend> tag?] => The <legend> tag represents a caption for the content of a <fieldset>, providing context for the grouped form controls.
+            [what is the <datalist> tag?] => The <datalist> tag contains a list of predefined options for an <input> element, allowing users to select from a list of suggestions.
+            [what is the purpose of the <meta name="viewport"> tag?] => The <meta name="viewport"> tag controls the layout on mobile browsers by specifying the viewport’s width and scale.
+            [what is an HTML document structure?] => An HTML document structure typically includes a <doctype>, <html>, <head>, and <body> section, providing a framework for content and metadata.
+            [what is the purpose of the <base> tag?] => The <base> tag specifies a base URL for relative URLs in the document, ensuring that all relative links are resolved correctly.
+            [what is the <template> tag?] => The <template> tag holds client-side content that is not rendered when the page loads but can be instantiated later using JavaScript.
+            [what is the <picture> tag?] => The <picture> tag allows for responsive images by specifying different sources for different conditions, such as screen sizes and resolutions.
+            [what is the <source> tag?] => The <source> tag specifies multiple media resources for elements like <audio> and <video>, allowing the browser to select the most appropriate one.
+            [what is the <track> tag?] => The <track> tag provides text tracks for <video> and <audio> elements, such as subtitles or captions.
+            [what is the <dialog> tag?] => The <dialog> tag defines a dialog box or popup that can be shown or hidden with JavaScript.
+            [what is the <slot> tag?] => The <slot> tag is used in Web Components to define placeholders for child content that can be projected into a shadow DOM.
+            [what is the <summary> tag?] => The <summary> tag defines a summary or heading for a <details> element, providing a way to show or hide additional information.
+            [what is the <address> tag?] => The <address> tag represents contact information for the nearest article or section, such as author details or company information.
+            [what is the <main> tag?] => The <main> tag represents the dominant content of the <body> of a document, excluding headers, footers, and sidebars.
+            [what is the <header> tag?] => The <header> tag represents introductory content or a group of navigational aids, often used at the top of a page or section.
+            [what is the <footer> tag?] => The <footer> tag defines the footer for a page or section, usually containing copyright, contact, or related information.
+            [what is the <nav> tag?] => The <nav> tag represents a navigation section, containing links to other pages or parts of the document.
+            [what is the <section> tag?] => The <section> tag represents a thematic grouping of content, such as a chapter or a group of related articles.
+            [what is the <aside> tag?] => The <aside> tag represents content that is tangentially related to the content around it, such as a sidebar or a note.
+            [what is the <figcaption> tag?] => The <figcaption> tag provides a caption or legend for a <figure> element, describing its content.
+            [what is the <figure> tag?] => The <figure> tag represents any content that is referenced from the main content, such as images, diagrams, or illustrations.
+            [what is the <progress> tag?] => The <progress> tag displays a progress bar indicating the completion of a task or process, with values for the current state and total.
+            [what is the <meter> tag?] => The <meter> tag represents a scalar measurement within a known range, such as a progress bar or a gauge.
+            [what is the <details> tag?] => The <details> tag defines a disclosure widget from which the user can obtain additional information or controls.
+            [what is the <output> tag?] => The <output> tag represents the result of a calculation or user action, often used with form submissions.
+            [what is the <time> tag?] => The <time> tag represents a specific period in time, such as a date or time, formatted for machine readability.
+            [what is the <data> tag?] => The <data> tag links content with a machine-readable value, useful for data processing and formatting.
+        )
+
+    [response2] => Array
+        (
+            [what is JavaScript?] => JavaScript is a programming language commonly used for adding interactivity and dynamic content to web pages.
+            [what is a JavaScript variable?] => A JavaScript variable is a container for storing data values, defined using var, let, or const keywords.
+            [what is a JavaScript function?] => A JavaScript function is a block of code designed to perform a specific task, defined with the function keyword and invoked by name.
+            [what is an array in JavaScript?] => An array in JavaScript is a list-like object used to store multiple values in a single variable, indexed by numbers.
+            [what is an object in JavaScript?] => An object in JavaScript is a collection of key-value pairs, where each key is a property name and each value is a property value.
+            [what is the purpose of the document object in JavaScript?] => The document object represents the web page and provides methods and properties for manipulating its content and structure.
+            [what is an event in JavaScript?] => An event in JavaScript is an action or occurrence, such as a click or keypress, that can be detected and handled with event listeners.
+            [what is the purpose of the addEventListener method in JavaScript?] => The addEventListener method attaches an event handler to an element, allowing you to specify the type of event and the function to execute.
+            [what is a callback function in JavaScript?] => A callback function is a function passed as an argument to another function, to be executed after a specific task is completed.
+            [what is the difference between == and === in JavaScript?] => == is a loose equality operator that compares values after type conversion, while === is a strict equality operator that compares values and types without conversion.
+            [what is the purpose of the this keyword in JavaScript?] => The this keyword refers to the current context or object in which a function is executed, allowing access to its properties and methods.
+            [what is a promise in JavaScript?] => A promise is an object representing the eventual completion or failure of an asynchronous operation, allowing you to handle results or errors.
+            [what is the purpose of the async/await syntax in JavaScript?] => The async/await syntax simplifies handling asynchronous operations, allowing you to write asynchronous code that looks and behaves like synchronous code.
+            [what is the DOM in JavaScript?] => The DOM (Document Object Model) is an interface that represents the structure of a web document as a tree of objects, allowing for dynamic manipulation of content.
+            [what is localStorage in JavaScript?] => localStorage is a web storage feature that allows you to store data in the browser with no expiration date, persisting across page reloads.
+            [what is sessionStorage in JavaScript?] => sessionStorage is a web storage feature that allows you to store data for the duration of a page session, cleared when the page or tab is closed.
+            [what is a closure in JavaScript?] => A closure is a feature where a function retains access to variables from its lexical scope, even after the function has finished executing.
+            [what is the purpose of the map method in JavaScript?] => The map method creates a new array by applying a function to each element of an existing array, transforming the elements.
+            [what is the purpose of the filter method in JavaScript?] => The filter method creates a new array containing elements that pass a test provided by a function, filtering the original array.
+            [what is the purpose of the reduce method in JavaScript?] => The reduce method applies a function to each element of an array, accumulating a single result based on the function’s return value.
+            [what is event delegation in JavaScript?] => Event delegation is a technique where a single event handler is attached to a parent element, managing events for its child elements.
+            [what is the purpose of the fetch API in JavaScript?] => The fetch API provides a modern way to make network requests and handle responses, returning promises for asynchronous data retrieval.
+            [what is the difference between function declarations and function expressions in JavaScript?] => Function declarations define a function with a name and can be hoisted, while function expressions define a function as part of an expression and cannot be hoisted.
+            [what is the purpose of the setTimeout function in JavaScript?] => The setTimeout function schedules a function to be executed after a specified delay, allowing for timed operations.
+            [what is the purpose of the setInterval function in JavaScript?] => The setInterval function repeatedly executes a function at specified intervals, allowing for continuous or periodic operations.
+            [what is the purpose of the JSON.stringify method in JavaScript?] => The JSON.stringify method converts a JavaScript object or value into a JSON string, useful for data serialization.
+            [what is the purpose of the JSON.parse method in JavaScript?] => The JSON.parse method converts a JSON string into a JavaScript object, enabling data deserialization and manipulation.
+            [what is the purpose of the eval function in JavaScript?] => The eval function executes a string of JavaScript code, allowing dynamic code execution, though its use is generally discouraged due to security risks.
+            [what is the purpose of the Object.keys method in JavaScript?] => The Object.keys method returns an array of an object’s own enumerable property names, useful for iterating over object properties.
+            [what is the purpose of the Object.values method in JavaScript?] => The Object.values method returns an array of an object’s own enumerable property values, allowing for value-based iteration.
+            [what is the purpose of the Object.entries method in JavaScript?] => The Object.entries method returns an array of an object’s own enumerable property [key, value] pairs, enabling iteration over object properties.
+            [what is a JavaScript module?] => A JavaScript module is a file containing code that can be imported and exported between different files, promoting code organization and reuse.
+            [what is the purpose of the import statement in JavaScript?] => The import statement allows you to include and use code from other JavaScript modules, promoting modular code structure.
+        )
+
+)
+
+Response: Problem-based learning is an approach where students learn by solving real-world problems, encouraging critical thinking and practical application of knowledge.
+Received: Array
+(
+    [message] => what is problem-based learning?
+    [type] => text
+)
+
+Responses Loaded: Array
+(
+    [hello] => Hi there! How can I help you today?
+    [how are you?] => I am just a program, but I am doing great!
+    [bye] => Goodbye! Have a great day!
+    [what is the importance of education?] => Education is essential as it empowers individuals with knowledge, skills, and critical thinking abilities for personal and professional growth.
+    [how can i improve my learning skills?] => To improve your learning skills, focus on active learning, consistent practice, time management, and using diverse study resources.
+    [what is the best way to study?] => The best way to study varies, but active learning, spaced repetition, and understanding the core concepts are highly effective methods.
+    [how do i stay motivated to study?] => Stay motivated by setting clear goals, breaking down tasks, rewarding yourself for progress, and keeping a positive mindset.
+    [what are the benefits of online education?] => Online education offers flexibility, access to a wide range of resources, and the ability to learn at your own pace from anywhere in the world.
+    [how can i prepare for exams?] => For exam preparation, review your notes regularly, solve past papers, create a study plan, and focus on understanding concepts rather than memorizing.
+    [how do i manage study stress?] => Manage study stress by taking breaks, practicing mindfulness, staying organized, and maintaining a healthy lifestyle with proper sleep and nutrition.
+    [what is a growth mindset?] => A growth mindset is the belief that abilities and intelligence can be developed with effort, learning, and persistence, which leads to better academic and personal outcomes.
+    [why is critical thinking important in education?] => Critical thinking is important as it helps students analyze, evaluate, and create logical solutions to problems, making learning more effective and insightful.
+    [how do i improve my time management skills?] => Improve time management by creating a schedule, prioritizing tasks, setting realistic goals, and avoiding procrastination.
+    [what are the best study habits?] => The best study habits include maintaining a consistent routine, active note-taking, practicing retrieval, and reviewing regularly to reinforce learning.
+    [what is active learning?] => Active learning involves engaging with the material through discussions, problem-solving, and hands-on activities rather than passive reading or listening.
+    [how do i take effective notes?] => Effective note-taking involves summarizing key points, using bullet points or diagrams, and organizing information in a way that makes it easy to review later.
+    [what are some online learning platforms?] => Some popular online learning platforms include Coursera, Udemy, edX, Khan Academy, and LinkedIn Learning.
+    [how do i improve my concentration while studying?] => Improve concentration by eliminating distractions, using the Pomodoro technique, and practicing mindfulness to stay focused.
+    [why is self-discipline important in education?] => Self-discipline is crucial as it helps students stay on track, manage their time effectively, and achieve their academic goals without relying on external motivation.
+    [how can i develop good study habits?] => Develop good study habits by creating a dedicated study space, setting specific goals, reviewing regularly, and staying organized.
+    [what are the advantages of collaborative learning?] => Collaborative learning encourages peer interaction, knowledge sharing, and the development of critical thinking and teamwork skills.
+    [what is lifelong learning?] => Lifelong learning is the continuous pursuit of knowledge and skills throughout one's life, for both personal and professional development.
+    [how do i improve my writing skills?] => Improve writing skills by practicing regularly, reading widely, seeking feedback, and focusing on structure, clarity, and coherence.
+    [why is reading important for students?] => Reading expands knowledge, improves vocabulary, enhances critical thinking, and helps students develop a broader understanding of the world.
+    [how can i create an effective study schedule?] => Create an effective study schedule by setting realistic goals, breaking tasks into manageable parts, and allocating time for review and breaks.
+    [what is blended learning?] => Blended learning combines traditional face-to-face instruction with online learning, allowing students to benefit from both methods.
+    [how do i improve my memory for exams?] => Improve memory by using techniques like mnemonics, visualization, and regular revision to reinforce learning.
+    [what is problem-based learning?] => Problem-based learning is an approach where students learn by solving real-world problems, encouraging critical thinking and practical application of knowledge.
+    [why is education important for career development?] => Education provides the knowledge, skills, and qualifications necessary for career advancement and personal growth in today’s competitive job market.
+    [how do i overcome procrastination?] => Overcome procrastination by breaking tasks into smaller steps, setting deadlines, and using tools like the Pomodoro technique to stay focused.
+    [what are the benefits of tutoring?] => Tutoring provides personalized instruction, helps clarify difficult concepts, and offers additional support to strengthen understanding and performance.
+    [what is peer learning?] => Peer learning involves students working together to help each other understand concepts, improve problem-solving skills, and enhance their learning experience.
+    [what is experiential learning?] => Experiential learning is learning through hands-on experience and reflection, helping students apply theoretical knowledge in practical situations.
+    [how can i improve my presentation skills?] => Improve presentation skills by practicing regularly, organizing your content, using visual aids, and maintaining eye contact with the audience.
+    [why is feedback important in learning?] => Feedback helps students understand their strengths and weaknesses, guiding them on how to improve and reinforcing the learning process.
+    [how do i improve my public speaking skills?] => Improve public speaking by practicing in front of an audience, organizing your speech, and focusing on clear communication and confidence.
+    [what is adaptive learning?] => Adaptive learning uses technology to adjust the learning experience based on the student’s needs, helping them progress at their own pace.
+    [how do i set academic goals?] => Set academic goals by identifying specific, measurable, achievable, relevant, and time-bound objectives that align with your personal and career aspirations.
+    [what are some effective study techniques?] => Effective study techniques include spaced repetition, summarization, teaching others, and using active recall to reinforce understanding.
+    [why is curiosity important in education?] => Curiosity drives students to explore, ask questions, and seek deeper understanding, making learning more engaging and meaningful.
+    [what is project-based learning?] => Project-based learning involves students working on a project over an extended period, applying knowledge to solve real-world challenges.
+    [how can i improve my research skills?] => Improve research skills by learning how to identify credible sources, organize information, and critically analyze data to support your findings.
+    [what is the role of technology in education?] => Technology enhances education by providing access to a wide range of resources, enabling interactive learning, and facilitating communication between students and teachers.
+    [how do i overcome test anxiety?] => Overcome test anxiety by practicing relaxation techniques, preparing thoroughly, and focusing on positive self-talk and staying calm during exams.
+    [what is inquiry-based learning?] => Inquiry-based learning encourages students to ask questions, investigate, and discover answers on their own, fostering critical thinking and problem-solving.
+    [how can i stay organized in school?] => Stay organized by using planners, to-do lists, and keeping your study materials and workspace neat and structured.
+    [what is flipped learning?] => Flipped learning reverses traditional teaching by having students learn new material at home and use class time for hands-on activities and problem-solving.
+    [how do i improve my problem-solving skills?] => Improve problem-solving skills by practicing critical thinking, analyzing problems from different perspectives, and using logical reasoning to find solutions.
+    [what is personalized learning?] => Personalized learning tailors educational content and pace to meet the individual needs and preferences of each student, enhancing their learning experience.
+    [how do i improve my analytical skills?] => Improve analytical skills by practicing critical thinking, working through complex problems, and using data and evidence to support your conclusions.
+    [what is the importance of creativity in education?] => Creativity in education encourages innovation, problem-solving, and out-of-the-box thinking, which helps students develop unique approaches to challenges.
+    [how can i prepare for a presentation?] => Prepare for a presentation by researching your topic, organizing your content, practicing in front of others, and using visual aids to support your points.
+    [why is collaboration important in education?] => Collaboration in education fosters teamwork, communication, and the sharing of diverse perspectives, helping students learn from each other.
+    [how do i balance school and extracurricular activities?] => Balance school and extracurricular activities by managing your time effectively, setting priorities, and staying organized with a schedule.
+    [what is self-directed learning?] => Self-directed learning involves taking initiative and responsibility for your own learning, setting goals, and seeking out resources independently.
+    [how can i improve my communication skills?] => Improve communication skills by practicing active listening, being clear and concise, and engaging in discussions with others to share and refine ideas.
+    [what is interdisciplinary learning?] => Interdisciplinary learning integrates knowledge and methods from different subjects to address complex problems, encouraging a broader perspective.
+    [how do i stay focused during online classes?] => Stay focused during online classes by eliminating distractions, taking notes, participating actively, and following a structured study routine.
+    [why is time management important for students?] => Time management is crucial for students to balance academic responsibilities, extracurricular activities, and personal life effectively.
+    [what is HTML?] => HTML stands for HyperText Markup Language. It is the standard language used to create and design web pages.
+    [what is an HTML tag?] => An HTML tag is a keyword or identifier surrounded by angle brackets used to define elements on a web page.
+    [what is the purpose of the <head> tag?] => The <head> tag contains meta-information about the HTML document, such as title, character set, and links to stylesheets.
+    [what is the <body> tag used for?] => The <body> tag contains the content of an HTML document, including text, images, and other elements visible on the web page.
+    [what are HTML attributes?] => HTML attributes provide additional information about HTML elements, such as class, id, and src, and are specified within the element’s opening tag.
+    [what is a div element?] => A div element is a block-level container used to group and style other elements, providing a way to structure web page content.
+    [what is a span element?] => A span element is an inline container used to group and style text or other elements within a block-level element.
+    [what is the difference between <ul> and <ol>?] => <ul> is used for unordered lists, where items are listed with bullets, while <ol> is used for ordered lists with numbered items.
+    [what is the <a> tag used for?] => The <a> tag is used to create hyperlinks that link to other pages, websites, or resources.
+    [what is a form element?] => A form element is used to collect user input through various input fields like text boxes, radio buttons, and checkboxes.
+    [what is the purpose of the <input> tag?] => The <input> tag defines an input field where users can enter data, and it supports various types such as text, password, and file uploads.
+    [what is an HTML table?] => An HTML table is used to display tabular data, consisting of rows and columns created with <table>, <tr>, <th>, and <td> elements.
+    [what is the <meta> tag?] => The <meta> tag provides metadata about the HTML document, such as charset, viewport settings, and SEO-related information.
+    [what is the difference between <section> and <article>?] => <section> represents a thematic grouping of content, while <article> represents a self-contained piece of content that could be distributed independently.
+    [what is the purpose of the <link> tag?] => The <link> tag is used to link external resources like stylesheets to an HTML document.
+    [what is a semantic HTML tag?] => Semantic HTML tags clearly describe their meaning in a human- and machine-readable way, such as <header>, <footer>, <nav>, and <main>.
+    [what is the <script> tag used for?] => The <script> tag is used to include JavaScript code in an HTML document or to link to an external JavaScript file.
+    [what are data attributes?] => Data attributes are custom attributes added to HTML elements to store extra data, accessible via JavaScript using dataset property.
+    [what is the purpose of the <style> tag?] => The <style> tag is used to include internal CSS styles within an HTML document.
+    [what is the <iframe> tag?] => The <iframe> tag creates an inline frame that allows embedding another HTML document within the current page.
+    [what is a comment in HTML?] => A comment in HTML is a piece of text included within <!-- --> that is not displayed on the page and is used to annotate code.
+    [what is the <noscript> tag?] => The <noscript> tag is used to define alternative content for browsers that do not support or have JavaScript disabled.
+    [what is the difference between <b> and <strong>?] => <b> makes text bold without implying any importance, while <strong> emphasizes the importance of the text and also makes it bold.
+    [what is the <br> tag used for?] => The <br> tag inserts a line break in the text, used to separate lines within an element.
+    [what is the <hr> tag used for?] => The <hr> tag creates a horizontal rule or line that separates content within a page.
+    [what are HTML5 semantic elements?] => HTML5 semantic elements include <article>, <aside>, <details>, <figcaption>, <figure>, <footer>, <header>, <main>, <mark>, <nav>, <section>, and <summary>, providing better structure and readability.
+    [what is the <meta charset="UTF-8"> tag?] => The <meta charset="UTF-8"> tag specifies the character encoding for the HTML document, ensuring proper display of text.
+    [what is the <button> tag used for?] => The <button> tag defines a clickable button, which can be used to submit forms or trigger JavaScript functions.
+    [what is the <label> tag?] => The <label> tag defines labels for form elements, providing a way to associate text with input fields.
+    [what is the <fieldset> tag?] => The <fieldset> tag groups related form controls and labels within a form, often used with <legend> to provide a caption.
+    [what is the <legend> tag?] => The <legend> tag represents a caption for the content of a <fieldset>, providing context for the grouped form controls.
+    [what is the <datalist> tag?] => The <datalist> tag contains a list of predefined options for an <input> element, allowing users to select from a list of suggestions.
+    [what is the purpose of the <meta name="viewport"> tag?] => The <meta name="viewport"> tag controls the layout on mobile browsers by specifying the viewport’s width and scale.
+    [what is an HTML document structure?] => An HTML document structure typically includes a <doctype>, <html>, <head>, and <body> section, providing a framework for content and metadata.
+    [what is the purpose of the <base> tag?] => The <base> tag specifies a base URL for relative URLs in the document, ensuring that all relative links are resolved correctly.
+    [what is the <template> tag?] => The <template> tag holds client-side content that is not rendered when the page loads but can be instantiated later using JavaScript.
+    [what is the <picture> tag?] => The <picture> tag allows for responsive images by specifying different sources for different conditions, such as screen sizes and resolutions.
+    [what is the <source> tag?] => The <source> tag specifies multiple media resources for elements like <audio> and <video>, allowing the browser to select the most appropriate one.
+    [what is the <track> tag?] => The <track> tag provides text tracks for <video> and <audio> elements, such as subtitles or captions.
+    [what is the <dialog> tag?] => The <dialog> tag defines a dialog box or popup that can be shown or hidden with JavaScript.
+    [what is the <slot> tag?] => The <slot> tag is used in Web Components to define placeholders for child content that can be projected into a shadow DOM.
+    [what is the <summary> tag?] => The <summary> tag defines a summary or heading for a <details> element, providing a way to show or hide additional information.
+    [what is the <address> tag?] => The <address> tag represents contact information for the nearest article or section, such as author details or company information.
+    [what is the <main> tag?] => The <main> tag represents the dominant content of the <body> of a document, excluding headers, footers, and sidebars.
+    [what is the <header> tag?] => The <header> tag represents introductory content or a group of navigational aids, often used at the top of a page or section.
+    [what is the <footer> tag?] => The <footer> tag defines the footer for a page or section, usually containing copyright, contact, or related information.
+    [what is the <nav> tag?] => The <nav> tag represents a navigation section, containing links to other pages or parts of the document.
+    [what is the <section> tag?] => The <section> tag represents a thematic grouping of content, such as a chapter or a group of related articles.
+    [what is the <aside> tag?] => The <aside> tag represents content that is tangentially related to the content around it, such as a sidebar or a note.
+    [what is the <figcaption> tag?] => The <figcaption> tag provides a caption or legend for a <figure> element, describing its content.
+    [what is the <figure> tag?] => The <figure> tag represents any content that is referenced from the main content, such as images, diagrams, or illustrations.
+    [what is the <progress> tag?] => The <progress> tag displays a progress bar indicating the completion of a task or process, with values for the current state and total.
+    [what is the <meter> tag?] => The <meter> tag represents a scalar measurement within a known range, such as a progress bar or a gauge.
+    [what is the <details> tag?] => The <details> tag defines a disclosure widget from which the user can obtain additional information or controls.
+    [what is the <output> tag?] => The <output> tag represents the result of a calculation or user action, often used with form submissions.
+    [what is the <time> tag?] => The <time> tag represents a specific period in time, such as a date or time, formatted for machine readability.
+    [what is the <data> tag?] => The <data> tag links content with a machine-readable value, useful for data processing and formatting.
+    [what is JavaScript?] => JavaScript is a programming language commonly used for adding interactivity and dynamic content to web pages.
+    [what is a JavaScript variable?] => A JavaScript variable is a container for storing data values, defined using var, let, or const keywords.
+    [what is a JavaScript function?] => A JavaScript function is a block of code designed to perform a specific task, defined with the function keyword and invoked by name.
+    [what is an array in JavaScript?] => An array in JavaScript is a list-like object used to store multiple values in a single variable, indexed by numbers.
+    [what is an object in JavaScript?] => An object in JavaScript is a collection of key-value pairs, where each key is a property name and each value is a property value.
+    [what is the purpose of the document object in JavaScript?] => The document object represents the web page and provides methods and properties for manipulating its content and structure.
+    [what is an event in JavaScript?] => An event in JavaScript is an action or occurrence, such as a click or keypress, that can be detected and handled with event listeners.
+    [what is the purpose of the addEventListener method in JavaScript?] => The addEventListener method attaches an event handler to an element, allowing you to specify the type of event and the function to execute.
+    [what is a callback function in JavaScript?] => A callback function is a function passed as an argument to another function, to be executed after a specific task is completed.
+    [what is the difference between == and === in JavaScript?] => == is a loose equality operator that compares values after type conversion, while === is a strict equality operator that compares values and types without conversion.
+    [what is the purpose of the this keyword in JavaScript?] => The this keyword refers to the current context or object in which a function is executed, allowing access to its properties and methods.
+    [what is a promise in JavaScript?] => A promise is an object representing the eventual completion or failure of an asynchronous operation, allowing you to handle results or errors.
+    [what is the purpose of the async/await syntax in JavaScript?] => The async/await syntax simplifies handling asynchronous operations, allowing you to write asynchronous code that looks and behaves like synchronous code.
+    [what is the DOM in JavaScript?] => The DOM (Document Object Model) is an interface that represents the structure of a web document as a tree of objects, allowing for dynamic manipulation of content.
+    [what is localStorage in JavaScript?] => localStorage is a web storage feature that allows you to store data in the browser with no expiration date, persisting across page reloads.
+    [what is sessionStorage in JavaScript?] => sessionStorage is a web storage feature that allows you to store data for the duration of a page session, cleared when the page or tab is closed.
+    [what is a closure in JavaScript?] => A closure is a feature where a function retains access to variables from its lexical scope, even after the function has finished executing.
+    [what is the purpose of the map method in JavaScript?] => The map method creates a new array by applying a function to each element of an existing array, transforming the elements.
+    [what is the purpose of the filter method in JavaScript?] => The filter method creates a new array containing elements that pass a test provided by a function, filtering the original array.
+    [what is the purpose of the reduce method in JavaScript?] => The reduce method applies a function to each element of an array, accumulating a single result based on the function’s return value.
+    [what is event delegation in JavaScript?] => Event delegation is a technique where a single event handler is attached to a parent element, managing events for its child elements.
+    [what is the purpose of the fetch API in JavaScript?] => The fetch API provides a modern way to make network requests and handle responses, returning promises for asynchronous data retrieval.
+    [what is the difference between function declarations and function expressions in JavaScript?] => Function declarations define a function with a name and can be hoisted, while function expressions define a function as part of an expression and cannot be hoisted.
+    [what is the purpose of the setTimeout function in JavaScript?] => The setTimeout function schedules a function to be executed after a specified delay, allowing for timed operations.
+    [what is the purpose of the setInterval function in JavaScript?] => The setInterval function repeatedly executes a function at specified intervals, allowing for continuous or periodic operations.
+    [what is the purpose of the JSON.stringify method in JavaScript?] => The JSON.stringify method converts a JavaScript object or value into a JSON string, useful for data serialization.
+    [what is the purpose of the JSON.parse method in JavaScript?] => The JSON.parse method converts a JSON string into a JavaScript object, enabling data deserialization and manipulation.
+    [what is the purpose of the eval function in JavaScript?] => The eval function executes a string of JavaScript code, allowing dynamic code execution, though its use is generally discouraged due to security risks.
+    [what is the purpose of the Object.keys method in JavaScript?] => The Object.keys method returns an array of an object’s own enumerable property names, useful for iterating over object properties.
+    [what is the purpose of the Object.values method in JavaScript?] => The Object.values method returns an array of an object’s own enumerable property values, allowing for value-based iteration.
+    [what is the purpose of the Object.entries method in JavaScript?] => The Object.entries method returns an array of an object’s own enumerable property [key, value] pairs, enabling iteration over object properties.
+    [what is a JavaScript module?] => A JavaScript module is a file containing code that can be imported and exported between different files, promoting code organization and reuse.
+    [what is the purpose of the import statement in JavaScript?] => The import statement allows you to include and use code from other JavaScript modules, promoting modular code structure.
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Responses Loaded: Array
+(
+    [hello] => Hi there! How can I help you today?
+    [how are you?] => I am just a program, but I am doing great!
+    [bye] => Goodbye! Have a great day!
+    [what is the importance of education?] => Education is essential as it empowers individuals with knowledge, skills, and critical thinking abilities for personal and professional growth.
+    [how can i improve my learning skills?] => To improve your learning skills, focus on active learning, consistent practice, time management, and using diverse study resources.
+    [what is the best way to study?] => The best way to study varies, but active learning, spaced repetition, and understanding the core concepts are highly effective methods.
+    [how do i stay motivated to study?] => Stay motivated by setting clear goals, breaking down tasks, rewarding yourself for progress, and keeping a positive mindset.
+    [what are the benefits of online education?] => Online education offers flexibility, access to a wide range of resources, and the ability to learn at your own pace from anywhere in the world.
+    [how can i prepare for exams?] => For exam preparation, review your notes regularly, solve past papers, create a study plan, and focus on understanding concepts rather than memorizing.
+    [how do i manage study stress?] => Manage study stress by taking breaks, practicing mindfulness, staying organized, and maintaining a healthy lifestyle with proper sleep and nutrition.
+    [what is a growth mindset?] => A growth mindset is the belief that abilities and intelligence can be developed with effort, learning, and persistence, which leads to better academic and personal outcomes.
+    [why is critical thinking important in education?] => Critical thinking is important as it helps students analyze, evaluate, and create logical solutions to problems, making learning more effective and insightful.
+    [how do i improve my time management skills?] => Improve time management by creating a schedule, prioritizing tasks, setting realistic goals, and avoiding procrastination.
+    [what are the best study habits?] => The best study habits include maintaining a consistent routine, active note-taking, practicing retrieval, and reviewing regularly to reinforce learning.
+    [what is active learning?] => Active learning involves engaging with the material through discussions, problem-solving, and hands-on activities rather than passive reading or listening.
+    [how do i take effective notes?] => Effective note-taking involves summarizing key points, using bullet points or diagrams, and organizing information in a way that makes it easy to review later.
+    [what are some online learning platforms?] => Some popular online learning platforms include Coursera, Udemy, edX, Khan Academy, and LinkedIn Learning.
+    [how do i improve my concentration while studying?] => Improve concentration by eliminating distractions, using the Pomodoro technique, and practicing mindfulness to stay focused.
+    [why is self-discipline important in education?] => Self-discipline is crucial as it helps students stay on track, manage their time effectively, and achieve their academic goals without relying on external motivation.
+    [how can i develop good study habits?] => Develop good study habits by creating a dedicated study space, setting specific goals, reviewing regularly, and staying organized.
+    [what are the advantages of collaborative learning?] => Collaborative learning encourages peer interaction, knowledge sharing, and the development of critical thinking and teamwork skills.
+    [what is lifelong learning?] => Lifelong learning is the continuous pursuit of knowledge and skills throughout one's life, for both personal and professional development.
+    [how do i improve my writing skills?] => Improve writing skills by practicing regularly, reading widely, seeking feedback, and focusing on structure, clarity, and coherence.
+    [why is reading important for students?] => Reading expands knowledge, improves vocabulary, enhances critical thinking, and helps students develop a broader understanding of the world.
+    [how can i create an effective study schedule?] => Create an effective study schedule by setting realistic goals, breaking tasks into manageable parts, and allocating time for review and breaks.
+    [what is blended learning?] => Blended learning combines traditional face-to-face instruction with online learning, allowing students to benefit from both methods.
+    [how do i improve my memory for exams?] => Improve memory by using techniques like mnemonics, visualization, and regular revision to reinforce learning.
+    [what is problem-based learning?] => Problem-based learning is an approach where students learn by solving real-world problems, encouraging critical thinking and practical application of knowledge.
+    [why is education important for career development?] => Education provides the knowledge, skills, and qualifications necessary for career advancement and personal growth in today’s competitive job market.
+    [how do i overcome procrastination?] => Overcome procrastination by breaking tasks into smaller steps, setting deadlines, and using tools like the Pomodoro technique to stay focused.
+    [what are the benefits of tutoring?] => Tutoring provides personalized instruction, helps clarify difficult concepts, and offers additional support to strengthen understanding and performance.
+    [what is peer learning?] => Peer learning involves students working together to help each other understand concepts, improve problem-solving skills, and enhance their learning experience.
+    [what is experiential learning?] => Experiential learning is learning through hands-on experience and reflection, helping students apply theoretical knowledge in practical situations.
+    [how can i improve my presentation skills?] => Improve presentation skills by practicing regularly, organizing your content, using visual aids, and maintaining eye contact with the audience.
+    [why is feedback important in learning?] => Feedback helps students understand their strengths and weaknesses, guiding them on how to improve and reinforcing the learning process.
+    [how do i improve my public speaking skills?] => Improve public speaking by practicing in front of an audience, organizing your speech, and focusing on clear communication and confidence.
+    [what is adaptive learning?] => Adaptive learning uses technology to adjust the learning experience based on the student’s needs, helping them progress at their own pace.
+    [how do i set academic goals?] => Set academic goals by identifying specific, measurable, achievable, relevant, and time-bound objectives that align with your personal and career aspirations.
+    [what are some effective study techniques?] => Effective study techniques include spaced repetition, summarization, teaching others, and using active recall to reinforce understanding.
+    [why is curiosity important in education?] => Curiosity drives students to explore, ask questions, and seek deeper understanding, making learning more engaging and meaningful.
+    [what is project-based learning?] => Project-based learning involves students working on a project over an extended period, applying knowledge to solve real-world challenges.
+    [how can i improve my research skills?] => Improve research skills by learning how to identify credible sources, organize information, and critically analyze data to support your findings.
+    [what is the role of technology in education?] => Technology enhances education by providing access to a wide range of resources, enabling interactive learning, and facilitating communication between students and teachers.
+    [how do i overcome test anxiety?] => Overcome test anxiety by practicing relaxation techniques, preparing thoroughly, and focusing on positive self-talk and staying calm during exams.
+    [what is inquiry-based learning?] => Inquiry-based learning encourages students to ask questions, investigate, and discover answers on their own, fostering critical thinking and problem-solving.
+    [how can i stay organized in school?] => Stay organized by using planners, to-do lists, and keeping your study materials and workspace neat and structured.
+    [what is flipped learning?] => Flipped learning reverses traditional teaching by having students learn new material at home and use class time for hands-on activities and problem-solving.
+    [how do i improve my problem-solving skills?] => Improve problem-solving skills by practicing critical thinking, analyzing problems from different perspectives, and using logical reasoning to find solutions.
+    [what is personalized learning?] => Personalized learning tailors educational content and pace to meet the individual needs and preferences of each student, enhancing their learning experience.
+    [how do i improve my analytical skills?] => Improve analytical skills by practicing critical thinking, working through complex problems, and using data and evidence to support your conclusions.
+    [what is the importance of creativity in education?] => Creativity in education encourages innovation, problem-solving, and out-of-the-box thinking, which helps students develop unique approaches to challenges.
+    [how can i prepare for a presentation?] => Prepare for a presentation by researching your topic, organizing your content, practicing in front of others, and using visual aids to support your points.
+    [why is collaboration important in education?] => Collaboration in education fosters teamwork, communication, and the sharing of diverse perspectives, helping students learn from each other.
+    [how do i balance school and extracurricular activities?] => Balance school and extracurricular activities by managing your time effectively, setting priorities, and staying organized with a schedule.
+    [what is self-directed learning?] => Self-directed learning involves taking initiative and responsibility for your own learning, setting goals, and seeking out resources independently.
+    [how can i improve my communication skills?] => Improve communication skills by practicing active listening, being clear and concise, and engaging in discussions with others to share and refine ideas.
+    [what is interdisciplinary learning?] => Interdisciplinary learning integrates knowledge and methods from different subjects to address complex problems, encouraging a broader perspective.
+    [how do i stay focused during online classes?] => Stay focused during online classes by eliminating distractions, taking notes, participating actively, and following a structured study routine.
+    [why is time management important for students?] => Time management is crucial for students to balance academic responsibilities, extracurricular activities, and personal life effectively.
+    [what is HTML?] => HTML stands for HyperText Markup Language. It is the standard language used to create and design web pages.
+    [what is an HTML tag?] => An HTML tag is a keyword or identifier surrounded by angle brackets used to define elements on a web page.
+    [what is the purpose of the <head> tag?] => The <head> tag contains meta-information about the HTML document, such as title, character set, and links to stylesheets.
+    [what is the <body> tag used for?] => The <body> tag contains the content of an HTML document, including text, images, and other elements visible on the web page.
+    [what are HTML attributes?] => HTML attributes provide additional information about HTML elements, such as class, id, and src, and are specified within the element’s opening tag.
+    [what is a div element?] => A div element is a block-level container used to group and style other elements, providing a way to structure web page content.
+    [what is a span element?] => A span element is an inline container used to group and style text or other elements within a block-level element.
+    [what is the difference between <ul> and <ol>?] => <ul> is used for unordered lists, where items are listed with bullets, while <ol> is used for ordered lists with numbered items.
+    [what is the <a> tag used for?] => The <a> tag is used to create hyperlinks that link to other pages, websites, or resources.
+    [what is a form element?] => A form element is used to collect user input through various input fields like text boxes, radio buttons, and checkboxes.
+    [what is the purpose of the <input> tag?] => The <input> tag defines an input field where users can enter data, and it supports various types such as text, password, and file uploads.
+    [what is an HTML table?] => An HTML table is used to display tabular data, consisting of rows and columns created with <table>, <tr>, <th>, and <td> elements.
+    [what is the <meta> tag?] => The <meta> tag provides metadata about the HTML document, such as charset, viewport settings, and SEO-related information.
+    [what is the difference between <section> and <article>?] => <section> represents a thematic grouping of content, while <article> represents a self-contained piece of content that could be distributed independently.
+    [what is the purpose of the <link> tag?] => The <link> tag is used to link external resources like stylesheets to an HTML document.
+    [what is a semantic HTML tag?] => Semantic HTML tags clearly describe their meaning in a human- and machine-readable way, such as <header>, <footer>, <nav>, and <main>.
+    [what is the <script> tag used for?] => The <script> tag is used to include JavaScript code in an HTML document or to link to an external JavaScript file.
+    [what are data attributes?] => Data attributes are custom attributes added to HTML elements to store extra data, accessible via JavaScript using dataset property.
+    [what is the purpose of the <style> tag?] => The <style> tag is used to include internal CSS styles within an HTML document.
+    [what is the <iframe> tag?] => The <iframe> tag creates an inline frame that allows embedding another HTML document within the current page.
+    [what is a comment in HTML?] => A comment in HTML is a piece of text included within <!-- --> that is not displayed on the page and is used to annotate code.
+    [what is the <noscript> tag?] => The <noscript> tag is used to define alternative content for browsers that do not support or have JavaScript disabled.
+    [what is the difference between <b> and <strong>?] => <b> makes text bold without implying any importance, while <strong> emphasizes the importance of the text and also makes it bold.
+    [what is the <br> tag used for?] => The <br> tag inserts a line break in the text, used to separate lines within an element.
+    [what is the <hr> tag used for?] => The <hr> tag creates a horizontal rule or line that separates content within a page.
+    [what are HTML5 semantic elements?] => HTML5 semantic elements include <article>, <aside>, <details>, <figcaption>, <figure>, <footer>, <header>, <main>, <mark>, <nav>, <section>, and <summary>, providing better structure and readability.
+    [what is the <meta charset="UTF-8"> tag?] => The <meta charset="UTF-8"> tag specifies the character encoding for the HTML document, ensuring proper display of text.
+    [what is the <button> tag used for?] => The <button> tag defines a clickable button, which can be used to submit forms or trigger JavaScript functions.
+    [what is the <label> tag?] => The <label> tag defines labels for form elements, providing a way to associate text with input fields.
+    [what is the <fieldset> tag?] => The <fieldset> tag groups related form controls and labels within a form, often used with <legend> to provide a caption.
+    [what is the <legend> tag?] => The <legend> tag represents a caption for the content of a <fieldset>, providing context for the grouped form controls.
+    [what is the <datalist> tag?] => The <datalist> tag contains a list of predefined options for an <input> element, allowing users to select from a list of suggestions.
+    [what is the purpose of the <meta name="viewport"> tag?] => The <meta name="viewport"> tag controls the layout on mobile browsers by specifying the viewport’s width and scale.
+    [what is an HTML document structure?] => An HTML document structure typically includes a <doctype>, <html>, <head>, and <body> section, providing a framework for content and metadata.
+    [what is the purpose of the <base> tag?] => The <base> tag specifies a base URL for relative URLs in the document, ensuring that all relative links are resolved correctly.
+    [what is the <template> tag?] => The <template> tag holds client-side content that is not rendered when the page loads but can be instantiated later using JavaScript.
+    [what is the <picture> tag?] => The <picture> tag allows for responsive images by specifying different sources for different conditions, such as screen sizes and resolutions.
+    [what is the <source> tag?] => The <source> tag specifies multiple media resources for elements like <audio> and <video>, allowing the browser to select the most appropriate one.
+    [what is the <track> tag?] => The <track> tag provides text tracks for <video> and <audio> elements, such as subtitles or captions.
+    [what is the <dialog> tag?] => The <dialog> tag defines a dialog box or popup that can be shown or hidden with JavaScript.
+    [what is the <slot> tag?] => The <slot> tag is used in Web Components to define placeholders for child content that can be projected into a shadow DOM.
+    [what is the <summary> tag?] => The <summary> tag defines a summary or heading for a <details> element, providing a way to show or hide additional information.
+    [what is the <address> tag?] => The <address> tag represents contact information for the nearest article or section, such as author details or company information.
+    [what is the <main> tag?] => The <main> tag represents the dominant content of the <body> of a document, excluding headers, footers, and sidebars.
+    [what is the <header> tag?] => The <header> tag represents introductory content or a group of navigational aids, often used at the top of a page or section.
+    [what is the <footer> tag?] => The <footer> tag defines the footer for a page or section, usually containing copyright, contact, or related information.
+    [what is the <nav> tag?] => The <nav> tag represents a navigation section, containing links to other pages or parts of the document.
+    [what is the <section> tag?] => The <section> tag represents a thematic grouping of content, such as a chapter or a group of related articles.
+    [what is the <aside> tag?] => The <aside> tag represents content that is tangentially related to the content around it, such as a sidebar or a note.
+    [what is the <figcaption> tag?] => The <figcaption> tag provides a caption or legend for a <figure> element, describing its content.
+    [what is the <figure> tag?] => The <figure> tag represents any content that is referenced from the main content, such as images, diagrams, or illustrations.
+    [what is the <progress> tag?] => The <progress> tag displays a progress bar indicating the completion of a task or process, with values for the current state and total.
+    [what is the <meter> tag?] => The <meter> tag represents a scalar measurement within a known range, such as a progress bar or a gauge.
+    [what is the <details> tag?] => The <details> tag defines a disclosure widget from which the user can obtain additional information or controls.
+    [what is the <output> tag?] => The <output> tag represents the result of a calculation or user action, often used with form submissions.
+    [what is the <time> tag?] => The <time> tag represents a specific period in time, such as a date or time, formatted for machine readability.
+    [what is the <data> tag?] => The <data> tag links content with a machine-readable value, useful for data processing and formatting.
+    [what is JavaScript?] => JavaScript is a programming language commonly used for adding interactivity and dynamic content to web pages.
+    [what is a JavaScript variable?] => A JavaScript variable is a container for storing data values, defined using var, let, or const keywords.
+    [what is a JavaScript function?] => A JavaScript function is a block of code designed to perform a specific task, defined with the function keyword and invoked by name.
+    [what is an array in JavaScript?] => An array in JavaScript is a list-like object used to store multiple values in a single variable, indexed by numbers.
+    [what is an object in JavaScript?] => An object in JavaScript is a collection of key-value pairs, where each key is a property name and each value is a property value.
+    [what is the purpose of the document object in JavaScript?] => The document object represents the web page and provides methods and properties for manipulating its content and structure.
+    [what is an event in JavaScript?] => An event in JavaScript is an action or occurrence, such as a click or keypress, that can be detected and handled with event listeners.
+    [what is the purpose of the addEventListener method in JavaScript?] => The addEventListener method attaches an event handler to an element, allowing you to specify the type of event and the function to execute.
+    [what is a callback function in JavaScript?] => A callback function is a function passed as an argument to another function, to be executed after a specific task is completed.
+    [what is the difference between == and === in JavaScript?] => == is a loose equality operator that compares values after type conversion, while === is a strict equality operator that compares values and types without conversion.
+    [what is the purpose of the this keyword in JavaScript?] => The this keyword refers to the current context or object in which a function is executed, allowing access to its properties and methods.
+    [what is a promise in JavaScript?] => A promise is an object representing the eventual completion or failure of an asynchronous operation, allowing you to handle results or errors.
+    [what is the purpose of the async/await syntax in JavaScript?] => The async/await syntax simplifies handling asynchronous operations, allowing you to write asynchronous code that looks and behaves like synchronous code.
+    [what is the DOM in JavaScript?] => The DOM (Document Object Model) is an interface that represents the structure of a web document as a tree of objects, allowing for dynamic manipulation of content.
+    [what is localStorage in JavaScript?] => localStorage is a web storage feature that allows you to store data in the browser with no expiration date, persisting across page reloads.
+    [what is sessionStorage in JavaScript?] => sessionStorage is a web storage feature that allows you to store data for the duration of a page session, cleared when the page or tab is closed.
+    [what is a closure in JavaScript?] => A closure is a feature where a function retains access to variables from its lexical scope, even after the function has finished executing.
+    [what is the purpose of the map method in JavaScript?] => The map method creates a new array by applying a function to each element of an existing array, transforming the elements.
+    [what is the purpose of the filter method in JavaScript?] => The filter method creates a new array containing elements that pass a test provided by a function, filtering the original array.
+    [what is the purpose of the reduce method in JavaScript?] => The reduce method applies a function to each element of an array, accumulating a single result based on the function’s return value.
+    [what is event delegation in JavaScript?] => Event delegation is a technique where a single event handler is attached to a parent element, managing events for its child elements.
+    [what is the purpose of the fetch API in JavaScript?] => The fetch API provides a modern way to make network requests and handle responses, returning promises for asynchronous data retrieval.
+    [what is the difference between function declarations and function expressions in JavaScript?] => Function declarations define a function with a name and can be hoisted, while function expressions define a function as part of an expression and cannot be hoisted.
+    [what is the purpose of the setTimeout function in JavaScript?] => The setTimeout function schedules a function to be executed after a specified delay, allowing for timed operations.
+    [what is the purpose of the setInterval function in JavaScript?] => The setInterval function repeatedly executes a function at specified intervals, allowing for continuous or periodic operations.
+    [what is the purpose of the JSON.stringify method in JavaScript?] => The JSON.stringify method converts a JavaScript object or value into a JSON string, useful for data serialization.
+    [what is the purpose of the JSON.parse method in JavaScript?] => The JSON.parse method converts a JSON string into a JavaScript object, enabling data deserialization and manipulation.
+    [what is the purpose of the eval function in JavaScript?] => The eval function executes a string of JavaScript code, allowing dynamic code execution, though its use is generally discouraged due to security risks.
+    [what is the purpose of the Object.keys method in JavaScript?] => The Object.keys method returns an array of an object’s own enumerable property names, useful for iterating over object properties.
+    [what is the purpose of the Object.values method in JavaScript?] => The Object.values method returns an array of an object’s own enumerable property values, allowing for value-based iteration.
+    [what is the purpose of the Object.entries method in JavaScript?] => The Object.entries method returns an array of an object’s own enumerable property [key, value] pairs, enabling iteration over object properties.
+    [what is a JavaScript module?] => A JavaScript module is a file containing code that can be imported and exported between different files, promoting code organization and reuse.
+    [what is the purpose of the import statement in JavaScript?] => The import statement allows you to include and use code from other JavaScript modules, promoting modular code structure.
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is problem-based learning?
+    [type] => text
+)
+
+Response: Problem-based learning is an approach where students learn by solving real-world problems, encouraging critical thinking and practical application of knowledge.
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Response: Hi there! How can I help you today?
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Response: Hi there! How can I help you today?
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Merged Responses: Array
+(
+    [hello] => Hi there! How can I help you today?
+    [how are you?] => I am just a program, but I am doing great!
+    [bye] => Goodbye! Have a great day!
+    [what is the importance of education?] => Education is essential as it empowers individuals with knowledge, skills, and critical thinking abilities for personal and professional growth.
+    [how can i improve my learning skills?] => To improve your learning skills, focus on active learning, consistent practice, time management, and using diverse study resources.
+    [what is the best way to study?] => The best way to study varies, but active learning, spaced repetition, and understanding the core concepts are highly effective methods.
+    [how do i stay motivated to study?] => Stay motivated by setting clear goals, breaking down tasks, rewarding yourself for progress, and keeping a positive mindset.
+    [what are the benefits of online education?] => Online education offers flexibility, access to a wide range of resources, and the ability to learn at your own pace from anywhere in the world.
+    [how can i prepare for exams?] => For exam preparation, review your notes regularly, solve past papers, create a study plan, and focus on understanding concepts rather than memorizing.
+    [how do i manage study stress?] => Manage study stress by taking breaks, practicing mindfulness, staying organized, and maintaining a healthy lifestyle with proper sleep and nutrition.
+    [what is a growth mindset?] => A growth mindset is the belief that abilities and intelligence can be developed with effort, learning, and persistence, which leads to better academic and personal outcomes.
+    [why is critical thinking important in education?] => Critical thinking is important as it helps students analyze, evaluate, and create logical solutions to problems, making learning more effective and insightful.
+    [how do i improve my time management skills?] => Improve time management by creating a schedule, prioritizing tasks, setting realistic goals, and avoiding procrastination.
+    [what are the best study habits?] => The best study habits include maintaining a consistent routine, active note-taking, practicing retrieval, and reviewing regularly to reinforce learning.
+    [what is active learning?] => Active learning involves engaging with the material through discussions, problem-solving, and hands-on activities rather than passive reading or listening.
+    [how do i take effective notes?] => Effective note-taking involves summarizing key points, using bullet points or diagrams, and organizing information in a way that makes it easy to review later.
+    [what are some online learning platforms?] => Some popular online learning platforms include Coursera, Udemy, edX, Khan Academy, and LinkedIn Learning.
+    [how do i improve my concentration while studying?] => Improve concentration by eliminating distractions, using the Pomodoro technique, and practicing mindfulness to stay focused.
+    [why is self-discipline important in education?] => Self-discipline is crucial as it helps students stay on track, manage their time effectively, and achieve their academic goals without relying on external motivation.
+    [how can i develop good study habits?] => Develop good study habits by creating a dedicated study space, setting specific goals, reviewing regularly, and staying organized.
+    [what are the advantages of collaborative learning?] => Collaborative learning encourages peer interaction, knowledge sharing, and the development of critical thinking and teamwork skills.
+    [what is lifelong learning?] => Lifelong learning is the continuous pursuit of knowledge and skills throughout one's life, for both personal and professional development.
+    [how do i improve my writing skills?] => Improve writing skills by practicing regularly, reading widely, seeking feedback, and focusing on structure, clarity, and coherence.
+    [why is reading important for students?] => Reading expands knowledge, improves vocabulary, enhances critical thinking, and helps students develop a broader understanding of the world.
+    [how can i create an effective study schedule?] => Create an effective study schedule by setting realistic goals, breaking tasks into manageable parts, and allocating time for review and breaks.
+    [what is blended learning?] => Blended learning combines traditional face-to-face instruction with online learning, allowing students to benefit from both methods.
+    [how do i improve my memory for exams?] => Improve memory by using techniques like mnemonics, visualization, and regular revision to reinforce learning.
+    [what is problem-based learning?] => Problem-based learning is an approach where students learn by solving real-world problems, encouraging critical thinking and practical application of knowledge.
+    [why is education important for career development?] => Education provides the knowledge, skills, and qualifications necessary for career advancement and personal growth in today’s competitive job market.
+    [how do i overcome procrastination?] => Overcome procrastination by breaking tasks into smaller steps, setting deadlines, and using tools like the Pomodoro technique to stay focused.
+    [what are the benefits of tutoring?] => Tutoring provides personalized instruction, helps clarify difficult concepts, and offers additional support to strengthen understanding and performance.
+    [what is peer learning?] => Peer learning involves students working together to help each other understand concepts, improve problem-solving skills, and enhance their learning experience.
+    [what is experiential learning?] => Experiential learning is learning through hands-on experience and reflection, helping students apply theoretical knowledge in practical situations.
+    [how can i improve my presentation skills?] => Improve presentation skills by practicing regularly, organizing your content, using visual aids, and maintaining eye contact with the audience.
+    [why is feedback important in learning?] => Feedback helps students understand their strengths and weaknesses, guiding them on how to improve and reinforcing the learning process.
+    [how do i improve my public speaking skills?] => Improve public speaking by practicing in front of an audience, organizing your speech, and focusing on clear communication and confidence.
+    [what is adaptive learning?] => Adaptive learning uses technology to adjust the learning experience based on the student’s needs, helping them progress at their own pace.
+    [how do i set academic goals?] => Set academic goals by identifying specific, measurable, achievable, relevant, and time-bound objectives that align with your personal and career aspirations.
+    [what are some effective study techniques?] => Effective study techniques include spaced repetition, summarization, teaching others, and using active recall to reinforce understanding.
+    [why is curiosity important in education?] => Curiosity drives students to explore, ask questions, and seek deeper understanding, making learning more engaging and meaningful.
+    [what is project-based learning?] => Project-based learning involves students working on a project over an extended period, applying knowledge to solve real-world challenges.
+    [how can i improve my research skills?] => Improve research skills by learning how to identify credible sources, organize information, and critically analyze data to support your findings.
+    [what is the role of technology in education?] => Technology enhances education by providing access to a wide range of resources, enabling interactive learning, and facilitating communication between students and teachers.
+    [how do i overcome test anxiety?] => Overcome test anxiety by practicing relaxation techniques, preparing thoroughly, and focusing on positive self-talk and staying calm during exams.
+    [what is inquiry-based learning?] => Inquiry-based learning encourages students to ask questions, investigate, and discover answers on their own, fostering critical thinking and problem-solving.
+    [how can i stay organized in school?] => Stay organized by using planners, to-do lists, and keeping your study materials and workspace neat and structured.
+    [what is flipped learning?] => Flipped learning reverses traditional teaching by having students learn new material at home and use class time for hands-on activities and problem-solving.
+    [how do i improve my problem-solving skills?] => Improve problem-solving skills by practicing critical thinking, analyzing problems from different perspectives, and using logical reasoning to find solutions.
+    [what is personalized learning?] => Personalized learning tailors educational content and pace to meet the individual needs and preferences of each student, enhancing their learning experience.
+    [how do i improve my analytical skills?] => Improve analytical skills by practicing critical thinking, working through complex problems, and using data and evidence to support your conclusions.
+    [what is the importance of creativity in education?] => Creativity in education encourages innovation, problem-solving, and out-of-the-box thinking, which helps students develop unique approaches to challenges.
+    [how can i prepare for a presentation?] => Prepare for a presentation by researching your topic, organizing your content, practicing in front of others, and using visual aids to support your points.
+    [why is collaboration important in education?] => Collaboration in education fosters teamwork, communication, and the sharing of diverse perspectives, helping students learn from each other.
+    [how do i balance school and extracurricular activities?] => Balance school and extracurricular activities by managing your time effectively, setting priorities, and staying organized with a schedule.
+    [what is self-directed learning?] => Self-directed learning involves taking initiative and responsibility for your own learning, setting goals, and seeking out resources independently.
+    [how can i improve my communication skills?] => Improve communication skills by practicing active listening, being clear and concise, and engaging in discussions with others to share and refine ideas.
+    [what is interdisciplinary learning?] => Interdisciplinary learning integrates knowledge and methods from different subjects to address complex problems, encouraging a broader perspective.
+    [how do i stay focused during online classes?] => Stay focused during online classes by eliminating distractions, taking notes, participating actively, and following a structured study routine.
+    [why is time management important for students?] => Time management is crucial for students to balance academic responsibilities, extracurricular activities, and personal life effectively.
+    [what is HTML?] => HTML stands for HyperText Markup Language. It is the standard language used to create and design web pages.
+    [what is an HTML tag?] => An HTML tag is a keyword or identifier surrounded by angle brackets used to define elements on a web page.
+    [what is the purpose of the <head> tag?] => The <head> tag contains meta-information about the HTML document, such as title, character set, and links to stylesheets.
+    [what is the <body> tag used for?] => The <body> tag contains the content of an HTML document, including text, images, and other elements visible on the web page.
+    [what are HTML attributes?] => HTML attributes provide additional information about HTML elements, such as class, id, and src, and are specified within the element’s opening tag.
+    [what is a div element?] => A div element is a block-level container used to group and style other elements, providing a way to structure web page content.
+    [what is a span element?] => A span element is an inline container used to group and style text or other elements within a block-level element.
+    [what is the difference between <ul> and <ol>?] => <ul> is used for unordered lists, where items are listed with bullets, while <ol> is used for ordered lists with numbered items.
+    [what is the <a> tag used for?] => The <a> tag is used to create hyperlinks that link to other pages, websites, or resources.
+    [what is a form element?] => A form element is used to collect user input through various input fields like text boxes, radio buttons, and checkboxes.
+    [what is the purpose of the <input> tag?] => The <input> tag defines an input field where users can enter data, and it supports various types such as text, password, and file uploads.
+    [what is an HTML table?] => An HTML table is used to display tabular data, consisting of rows and columns created with <table>, <tr>, <th>, and <td> elements.
+    [what is the <meta> tag?] => The <meta> tag provides metadata about the HTML document, such as charset, viewport settings, and SEO-related information.
+    [what is the difference between <section> and <article>?] => <section> represents a thematic grouping of content, while <article> represents a self-contained piece of content that could be distributed independently.
+    [what is the purpose of the <link> tag?] => The <link> tag is used to link external resources like stylesheets to an HTML document.
+    [what is a semantic HTML tag?] => Semantic HTML tags clearly describe their meaning in a human- and machine-readable way, such as <header>, <footer>, <nav>, and <main>.
+    [what is the <script> tag used for?] => The <script> tag is used to include JavaScript code in an HTML document or to link to an external JavaScript file.
+    [what are data attributes?] => Data attributes are custom attributes added to HTML elements to store extra data, accessible via JavaScript using dataset property.
+    [what is the purpose of the <style> tag?] => The <style> tag is used to include internal CSS styles within an HTML document.
+    [what is the <iframe> tag?] => The <iframe> tag creates an inline frame that allows embedding another HTML document within the current page.
+    [what is a comment in HTML?] => A comment in HTML is a piece of text included within <!-- --> that is not displayed on the page and is used to annotate code.
+    [what is the <noscript> tag?] => The <noscript> tag is used to define alternative content for browsers that do not support or have JavaScript disabled.
+    [what is the difference between <b> and <strong>?] => <b> makes text bold without implying any importance, while <strong> emphasizes the importance of the text and also makes it bold.
+    [what is the <br> tag used for?] => The <br> tag inserts a line break in the text, used to separate lines within an element.
+    [what is the <hr> tag used for?] => The <hr> tag creates a horizontal rule or line that separates content within a page.
+    [what are HTML5 semantic elements?] => HTML5 semantic elements include <article>, <aside>, <details>, <figcaption>, <figure>, <footer>, <header>, <main>, <mark>, <nav>, <section>, and <summary>, providing better structure and readability.
+    [what is the <meta charset="UTF-8"> tag?] => The <meta charset="UTF-8"> tag specifies the character encoding for the HTML document, ensuring proper display of text.
+    [what is the <button> tag used for?] => The <button> tag defines a clickable button, which can be used to submit forms or trigger JavaScript functions.
+    [what is the <label> tag?] => The <label> tag defines labels for form elements, providing a way to associate text with input fields.
+    [what is the <fieldset> tag?] => The <fieldset> tag groups related form controls and labels within a form, often used with <legend> to provide a caption.
+    [what is the <legend> tag?] => The <legend> tag represents a caption for the content of a <fieldset>, providing context for the grouped form controls.
+    [what is the <datalist> tag?] => The <datalist> tag contains a list of predefined options for an <input> element, allowing users to select from a list of suggestions.
+    [what is the purpose of the <meta name="viewport"> tag?] => The <meta name="viewport"> tag controls the layout on mobile browsers by specifying the viewport’s width and scale.
+    [what is an HTML document structure?] => An HTML document structure typically includes a <doctype>, <html>, <head>, and <body> section, providing a framework for content and metadata.
+    [what is the purpose of the <base> tag?] => The <base> tag specifies a base URL for relative URLs in the document, ensuring that all relative links are resolved correctly.
+    [what is the <template> tag?] => The <template> tag holds client-side content that is not rendered when the page loads but can be instantiated later using JavaScript.
+    [what is the <picture> tag?] => The <picture> tag allows for responsive images by specifying different sources for different conditions, such as screen sizes and resolutions.
+    [what is the <source> tag?] => The <source> tag specifies multiple media resources for elements like <audio> and <video>, allowing the browser to select the most appropriate one.
+    [what is the <track> tag?] => The <track> tag provides text tracks for <video> and <audio> elements, such as subtitles or captions.
+    [what is the <dialog> tag?] => The <dialog> tag defines a dialog box or popup that can be shown or hidden with JavaScript.
+    [what is the <slot> tag?] => The <slot> tag is used in Web Components to define placeholders for child content that can be projected into a shadow DOM.
+    [what is the <summary> tag?] => The <summary> tag defines a summary or heading for a <details> element, providing a way to show or hide additional information.
+    [what is the <address> tag?] => The <address> tag represents contact information for the nearest article or section, such as author details or company information.
+    [what is the <main> tag?] => The <main> tag represents the dominant content of the <body> of a document, excluding headers, footers, and sidebars.
+    [what is the <header> tag?] => The <header> tag represents introductory content or a group of navigational aids, often used at the top of a page or section.
+    [what is the <footer> tag?] => The <footer> tag defines the footer for a page or section, usually containing copyright, contact, or related information.
+    [what is the <nav> tag?] => The <nav> tag represents a navigation section, containing links to other pages or parts of the document.
+    [what is the <section> tag?] => The <section> tag represents a thematic grouping of content, such as a chapter or a group of related articles.
+    [what is the <aside> tag?] => The <aside> tag represents content that is tangentially related to the content around it, such as a sidebar or a note.
+    [what is the <figcaption> tag?] => The <figcaption> tag provides a caption or legend for a <figure> element, describing its content.
+    [what is the <figure> tag?] => The <figure> tag represents any content that is referenced from the main content, such as images, diagrams, or illustrations.
+    [what is the <progress> tag?] => The <progress> tag displays a progress bar indicating the completion of a task or process, with values for the current state and total.
+    [what is the <meter> tag?] => The <meter> tag represents a scalar measurement within a known range, such as a progress bar or a gauge.
+    [what is the <details> tag?] => The <details> tag defines a disclosure widget from which the user can obtain additional information or controls.
+    [what is the <output> tag?] => The <output> tag represents the result of a calculation or user action, often used with form submissions.
+    [what is the <time> tag?] => The <time> tag represents a specific period in time, such as a date or time, formatted for machine readability.
+    [what is the <data> tag?] => The <data> tag links content with a machine-readable value, useful for data processing and formatting.
+    [what is JavaScript?] => JavaScript is a programming language commonly used for adding interactivity and dynamic content to web pages.
+    [what is a JavaScript variable?] => A JavaScript variable is a container for storing data values, defined using var, let, or const keywords.
+    [what is a JavaScript function?] => A JavaScript function is a block of code designed to perform a specific task, defined with the function keyword and invoked by name.
+    [what is an array in JavaScript?] => An array in JavaScript is a list-like object used to store multiple values in a single variable, indexed by numbers.
+    [what is an object in JavaScript?] => An object in JavaScript is a collection of key-value pairs, where each key is a property name and each value is a property value.
+    [what is the purpose of the document object in JavaScript?] => The document object represents the web page and provides methods and properties for manipulating its content and structure.
+    [what is an event in JavaScript?] => An event in JavaScript is an action or occurrence, such as a click or keypress, that can be detected and handled with event listeners.
+    [what is the purpose of the addEventListener method in JavaScript?] => The addEventListener method attaches an event handler to an element, allowing you to specify the type of event and the function to execute.
+    [what is a callback function in JavaScript?] => A callback function is a function passed as an argument to another function, to be executed after a specific task is completed.
+    [what is the difference between == and === in JavaScript?] => == is a loose equality operator that compares values after type conversion, while === is a strict equality operator that compares values and types without conversion.
+    [what is the purpose of the this keyword in JavaScript?] => The this keyword refers to the current context or object in which a function is executed, allowing access to its properties and methods.
+    [what is a promise in JavaScript?] => A promise is an object representing the eventual completion or failure of an asynchronous operation, allowing you to handle results or errors.
+    [what is the purpose of the async/await syntax in JavaScript?] => The async/await syntax simplifies handling asynchronous operations, allowing you to write asynchronous code that looks and behaves like synchronous code.
+    [what is the DOM in JavaScript?] => The DOM (Document Object Model) is an interface that represents the structure of a web document as a tree of objects, allowing for dynamic manipulation of content.
+    [what is localStorage in JavaScript?] => localStorage is a web storage feature that allows you to store data in the browser with no expiration date, persisting across page reloads.
+    [what is sessionStorage in JavaScript?] => sessionStorage is a web storage feature that allows you to store data for the duration of a page session, cleared when the page or tab is closed.
+    [what is a closure in JavaScript?] => A closure is a feature where a function retains access to variables from its lexical scope, even after the function has finished executing.
+    [what is the purpose of the map method in JavaScript?] => The map method creates a new array by applying a function to each element of an existing array, transforming the elements.
+    [what is the purpose of the filter method in JavaScript?] => The filter method creates a new array containing elements that pass a test provided by a function, filtering the original array.
+    [what is the purpose of the reduce method in JavaScript?] => The reduce method applies a function to each element of an array, accumulating a single result based on the function’s return value.
+    [what is event delegation in JavaScript?] => Event delegation is a technique where a single event handler is attached to a parent element, managing events for its child elements.
+    [what is the purpose of the fetch API in JavaScript?] => The fetch API provides a modern way to make network requests and handle responses, returning promises for asynchronous data retrieval.
+    [what is the difference between function declarations and function expressions in JavaScript?] => Function declarations define a function with a name and can be hoisted, while function expressions define a function as part of an expression and cannot be hoisted.
+    [what is the purpose of the setTimeout function in JavaScript?] => The setTimeout function schedules a function to be executed after a specified delay, allowing for timed operations.
+    [what is the purpose of the setInterval function in JavaScript?] => The setInterval function repeatedly executes a function at specified intervals, allowing for continuous or periodic operations.
+    [what is the purpose of the JSON.stringify method in JavaScript?] => The JSON.stringify method converts a JavaScript object or value into a JSON string, useful for data serialization.
+    [what is the purpose of the JSON.parse method in JavaScript?] => The JSON.parse method converts a JSON string into a JavaScript object, enabling data deserialization and manipulation.
+    [what is the purpose of the eval function in JavaScript?] => The eval function executes a string of JavaScript code, allowing dynamic code execution, though its use is generally discouraged due to security risks.
+    [what is the purpose of the Object.keys method in JavaScript?] => The Object.keys method returns an array of an object’s own enumerable property names, useful for iterating over object properties.
+    [what is the purpose of the Object.values method in JavaScript?] => The Object.values method returns an array of an object’s own enumerable property values, allowing for value-based iteration.
+    [what is the purpose of the Object.entries method in JavaScript?] => The Object.entries method returns an array of an object’s own enumerable property [key, value] pairs, enabling iteration over object properties.
+    [what is a JavaScript module?] => A JavaScript module is a file containing code that can be imported and exported between different files, promoting code organization and reuse.
+    [what is the purpose of the import statement in JavaScript?] => The import statement allows you to include and use code from other JavaScript modules, promoting modular code structure.
+)
+
+Found Response: Hi there! How can I help you today?
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Available Keys in JSON: Array
+(
+    [0] => hello
+    [1] => how are you?
+    [2] => bye
+    [3] => what is the importance of education?
+    [4] => how can i improve my learning skills?
+    [5] => what is the best way to study?
+    [6] => how do i stay motivated to study?
+    [7] => what are the benefits of online education?
+    [8] => how can i prepare for exams?
+    [9] => how do i manage study stress?
+    [10] => what is a growth mindset?
+    [11] => why is critical thinking important in education?
+    [12] => how do i improve my time management skills?
+    [13] => what are the best study habits?
+    [14] => what is active learning?
+    [15] => how do i take effective notes?
+    [16] => what are some online learning platforms?
+    [17] => how do i improve my concentration while studying?
+    [18] => why is self-discipline important in education?
+    [19] => how can i develop good study habits?
+    [20] => what are the advantages of collaborative learning?
+    [21] => what is lifelong learning?
+    [22] => how do i improve my writing skills?
+    [23] => why is reading important for students?
+    [24] => how can i create an effective study schedule?
+    [25] => what is blended learning?
+    [26] => how do i improve my memory for exams?
+    [27] => what is problem-based learning?
+    [28] => why is education important for career development?
+    [29] => how do i overcome procrastination?
+    [30] => what are the benefits of tutoring?
+    [31] => what is peer learning?
+    [32] => what is experiential learning?
+    [33] => how can i improve my presentation skills?
+    [34] => why is feedback important in learning?
+    [35] => how do i improve my public speaking skills?
+    [36] => what is adaptive learning?
+    [37] => how do i set academic goals?
+    [38] => what are some effective study techniques?
+    [39] => why is curiosity important in education?
+    [40] => what is project-based learning?
+    [41] => how can i improve my research skills?
+    [42] => what is the role of technology in education?
+    [43] => how do i overcome test anxiety?
+    [44] => what is inquiry-based learning?
+    [45] => how can i stay organized in school?
+    [46] => what is flipped learning?
+    [47] => how do i improve my problem-solving skills?
+    [48] => what is personalized learning?
+    [49] => how do i improve my analytical skills?
+    [50] => what is the importance of creativity in education?
+    [51] => how can i prepare for a presentation?
+    [52] => why is collaboration important in education?
+    [53] => how do i balance school and extracurricular activities?
+    [54] => what is self-directed learning?
+    [55] => how can i improve my communication skills?
+    [56] => what is interdisciplinary learning?
+    [57] => how do i stay focused during online classes?
+    [58] => why is time management important for students?
+    [59] => what is HTML?
+    [60] => what is an HTML tag?
+    [61] => what is the purpose of the <head> tag?
+    [62] => what is the <body> tag used for?
+    [63] => what are HTML attributes?
+    [64] => what is a div element?
+    [65] => what is a span element?
+    [66] => what is the difference between <ul> and <ol>?
+    [67] => what is the <a> tag used for?
+    [68] => what is a form element?
+    [69] => what is the purpose of the <input> tag?
+    [70] => what is an HTML table?
+    [71] => what is the <meta> tag?
+    [72] => what is the difference between <section> and <article>?
+    [73] => what is the purpose of the <link> tag?
+    [74] => what is a semantic HTML tag?
+    [75] => what is the <script> tag used for?
+    [76] => what are data attributes?
+    [77] => what is the purpose of the <style> tag?
+    [78] => what is the <iframe> tag?
+    [79] => what is a comment in HTML?
+    [80] => what is the <noscript> tag?
+    [81] => what is the difference between <b> and <strong>?
+    [82] => what is the <br> tag used for?
+    [83] => what is the <hr> tag used for?
+    [84] => what are HTML5 semantic elements?
+    [85] => what is the <meta charset="UTF-8"> tag?
+    [86] => what is the <button> tag used for?
+    [87] => what is the <label> tag?
+    [88] => what is the <fieldset> tag?
+    [89] => what is the <legend> tag?
+    [90] => what is the <datalist> tag?
+    [91] => what is the purpose of the <meta name="viewport"> tag?
+    [92] => what is an HTML document structure?
+    [93] => what is the purpose of the <base> tag?
+    [94] => what is the <template> tag?
+    [95] => what is the <picture> tag?
+    [96] => what is the <source> tag?
+    [97] => what is the <track> tag?
+    [98] => what is the <dialog> tag?
+    [99] => what is the <slot> tag?
+    [100] => what is the <summary> tag?
+    [101] => what is the <address> tag?
+    [102] => what is the <main> tag?
+    [103] => what is the <header> tag?
+    [104] => what is the <footer> tag?
+    [105] => what is the <nav> tag?
+    [106] => what is the <section> tag?
+    [107] => what is the <aside> tag?
+    [108] => what is the <figcaption> tag?
+    [109] => what is the <figure> tag?
+    [110] => what is the <progress> tag?
+    [111] => what is the <meter> tag?
+    [112] => what is the <details> tag?
+    [113] => what is the <output> tag?
+    [114] => what is the <time> tag?
+    [115] => what is the <data> tag?
+)
+
+User Message: hello
+Response: Hi there! How can I help you today?
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Response: Hi there! How can I help you today?
+Received: Array
+(
+    [message] => what is JavaScript?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+Response: Hi there! How can I help you today?
+Received: Array
+(
+    [message] => what is HTML?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => what is HTML?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+Received: Array
+(
+    [message] => why is time management important for students?
+    [type] => text
+)
+
+Response: Time management is crucial for students to balance academic responsibilities, extracurricular activities, and personal life effectively.
+Received: Array
+(
+    [message] => what is a comment in HTML?
+    [type] => text
+)
+
+Response: Sorry, I did not understand that.
+[2024-09-13 16:04:26] Received: Array
+(
+    [message] => what is a comment in HTML?
+    [type] => text
+)
+
+[2024-09-13 16:04:26] Response: A comment in HTML is a piece of text included within <!-- --> that is not displayed on the page and is used to annotate code.
+[2024-09-13 16:04:43] Received: Array
+(
+    [message] => what is the <data> tag?
+    [type] => text
+)
+
+[2024-09-13 16:04:43] Response: Sorry, I did not understand that.
+[2024-09-13 16:05:00] Received: Array
+(
+    [message] => what is HTML?
+    [type] => text
+)
+
+[2024-09-13 16:05:00] Response: HTML stands for HyperText Markup Language. It is the standard language used to create and design web pages.
+[2024-09-13 18:35:14] Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+[2024-09-13 18:35:14] Response: Hi there! How can I help you today?
+[2024-09-15 07:24:53] Received: Array
+(
+    [message] => help
+    [type] => text
+)
+
+[2024-09-15 07:24:53] Response: Sorry, I did not understand that.
+[2024-09-15 07:24:58] Received: Array
+(
+    [message] => hello
+    [type] => text
+)
+
+[2024-09-15 07:24:58] Response: Hi there! How can I help you today?
